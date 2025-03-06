@@ -1,30 +1,59 @@
-# Awesome List Template
+<div align="center">
 
-This is an [awesome-list](https://github.com/sindresorhus/awesome) template with
-CI to run [awesome-lint](https://github.com/sindresorhus/awesome-lint) and
-[awesome_bot](https://github.com/dkhamsing/awesome_bot) to be compliant from the
-beginning.
+<!-- title -->
 
-## Usage
+<!--lint ignore no-dead-urls-->
 
-1. [generate a template of this repo](https://github.com/jthegedus/awesome-list-template/generate)
-2. run a find & replace of `YOUR_GITHUB_USER/YOUR_REPO` with your details
-3. edit `readme-template.md`
-   - update the h1 title
-   - update the subtitle
-   - update the description
-   - add img src, make it link to the site of the thing in the image.
-4. choose a CI template
-   - GitHub Action: move config folder from `repo-root/ci/.github/` to
-     `repo-root/.github`
-   - Circle CI: move config folder from `repo-root/ci/.circleci/*` to
-     `repo-root/.circleci/*`
-   - GitLab CI: move config file from `repo-root/ci/.gitlab-ci.yml` to the
-     `repo-root/.gitlab-ci.yml`
-5. run a find & replace `readme-template.md` to `readme.md` in the CI you chose
-5. delete this file
-6. rename `readme-template.md` file to `readme.md`
+# Awesome Web Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/steel-dev/awesome-web-agents/actions/workflows/lint.yaml/badge.svg)](https://github.com/steel-dev/awesome-web-agents/actions/workflows/lint.yaml)
+
+<!-- subtitle -->
+
+A template for an awesome list with required conventions out of the box!
+
+<!-- image -->
+
+<a href="" target="_blank" rel="noopener noreferrer">
+  <img src="" />
+</a>
+
+<!-- description -->
+
+A one line description of the product or tool. See
+[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
+example.
+
+</div>
+
+<!-- TOC -->
+
+## Contents
+
+- [Featured (new releases)](#featured-new-releases)
+- [Section 1](#section-1)
+- [Follow](#follow)
+
+<!-- CONTENT -->
+
+## Featured (new releases)
+
+- [Apple](https://apple.com) - Apple as a placeholder.
+
+## Section 1
+
+- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+<!-- END CONTENT -->
+
+## Follow
+
+<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+
+Who else should we be following!?
 
 ## Contributing
 
-Contributions welcome!
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
