@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List Template [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml/badge.svg)](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/actions/workflows/lint.yaml)
+# Awesome Web Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/steel-dev/awesome-web-agents/actions/workflows/lint.yaml/badge.svg)](https://github.com/steel-dev/awesome-web-agents/actions/workflows/lint.yaml)
 
 <!-- subtitle -->
 
