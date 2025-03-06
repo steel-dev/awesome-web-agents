@@ -1,0 +1,19 @@
+stages:
+  - check
+
+awesome-lint:
+  stage: check
+  image: node:lts
+  cache:
+    paths:
+      - node_modules/
+  script:
+    - yarn add awesome-lint
+    - yarn awesome-lint
+
+awesome-bot:
+  stage: check
+  image: ruby:latest
+  script:
+    - gem install awesome_bot
+    - awesome_bot readme.md --allow-redirect --allow-dupe

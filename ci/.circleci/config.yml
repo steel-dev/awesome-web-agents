@@ -1,0 +1,31 @@
+version: 2.1
+
+jobs:
+  'awesome-bot':
+    docker:
+      - image: circleci/ruby:latest
+    steps:
+      - checkout
+      - run: gem install awesome_bot
+      - run: awesome_bot readme.md --allow-redirect --allow-dupe
+  'awesome-lint':
+    docker:
+      - image: circleci/node:lts
+    steps:
+      - checkout
+      - restore_cache:
+          keys:
+            - yarn-packages
+      - run: yarn add awesome-lint
+      - save_cache:
+          key: yarn-packages
+          paths:
+            - ~/.cache/yarn
+      - run: yarn awesome-lint
+
+workflows:
+  version: 2
+  build:
+    jobs:
+      - 'awesome-lint'
+      - 'awesome-bot'
