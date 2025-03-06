@@ -28,9 +28,13 @@ example.
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
-- [Section 1](#section-1)
-- [Follow](#follow)
+- [Awesome Web Agents  ](#awesome-web-agents--)
+  - [Contents](#contents)
+  - [Featured (new releases)](#featured-new-releases)
+  - [Section 1](#section-1)
+  - [Follow](#follow)
+  - [Contributing](#contributing)
+    - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -56,4 +60,4 @@ Who else should we be following!?
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/steel-dev/awesome-web-agents/graphs/contributors)!
