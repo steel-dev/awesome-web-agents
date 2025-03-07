@@ -28,12 +28,10 @@ A comprehensive collection of browser automation tools, AI-powered web agents, a
 
 - [Awesome Web Agents  ](#awesome-web-agents--)
   - [Contents](#contents)
-  - [Featured (new releases)](#featured-new-releases)
   - [Browsers for AI](#browsers-for-ai)
-  - [Authentication \& Access](#authentication--access)
-  - [Web Copilots](#web-copilots)
+  - [Autonomous Web Agents](#autonomous-web-agents)
   - [AI Web Automation Tools](#ai-web-automation-tools)
-    - [Open Source](#open-source)
+    - [Dev Tools](#dev-tools)
   - [AI Web Crawlers](#ai-web-crawlers)
   - [Web Search \& Query Tools](#web-search--query-tools)
   - [Benchmarks \& Research](#benchmarks--research)
@@ -44,57 +42,47 @@ A comprehensive collection of browser automation tools, AI-powered web agents, a
 
 <!-- CONTENT -->
 
+<!--
 ## Featured (new releases)
 
 - [Apple](https://apple.com) - Apple as a placeholder.
 - [Opera Agentic Feature](https://techcrunch.com/2025/03/03/opera-announces-a-new-agentic-feature-for-its-browser/) - Opera announces a new agentic feature for its browser, showcasing innovative web agent integration.
 
+-->
 ## Browsers for AI
 
 Cloud-hosted browser environments and APIs specifically designed for AI agents to interact with web pages seamlessly.
 
-- [Anchor Browser](https://anchorbrowser.io) - Cloud-hosted browser that allows AI agents to navigate web pages, submit forms, and extract data in a human-like way. _(Paid, free credits available)_
 - [Apify](https://apify.com/) - Cloud platform for web automation and scraping with support for LLM-powered agents. _(Paid)_
-- [BrowserBase](browserbase.com) - Headless browser infrastructure platform that lets developers automate complex web tasks using AI and Chrome at scale. _(Paid)_
+- [Browserbase](browserbase.com) - Closed-source headless browser API. _(Paid)_
 - [Browserless](https://www.browserless.io) - Browser-as-a-service enabling you to use headless Chrome via simple APIs. _(Paid)_
 
-## Authentication & Access
+## Autonomous Web Agents
 
-Tools that enable AI agents to access websites requiring login or to bypass security checks like CAPTCHAs.
+AI agents that autonomously navigate and interact with the web through a user-friendly interface.
 
-- [Anon](https://www.anon.com) - A developer platform for secure, user-permissioned authentication. _(Private Beta, Paid)_
-- [CapSolver](https://www.capsolver.com) - AI-powered CAPTCHA solving service. Provides fast, reliable captcha bypass (via API or browser extension) to unblock web automation flows. _(Paid)_
-
-## Web Copilots
-
-AI copilots that autonomously navigate and interact with the web through a user-friendly interface.
-
-- [Multion](https://multion.ai) - A browser-based AI assistant that automates web browsing. _(Paid)_
-- [Jace.AI](https://jace.ai) - An autonomous web assistant capable of executing complex multi-step tasks online. _(Waitlist, Paid)_
+- [Surf.new](https://surf.new) - An open-source playground for interaction with different web agents. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/surf.new?style=social)
+- [Browser-Use](https://www.browser-use.com) - Toolkit that bridges AI and the browser. ![GitHub Repo stars](https://img.shields.io/github/stars/Browser-Use/browser-use?style=social)
 - [Axiom.ai](https://axiom.ai) - No-code browser automation tool that can be powered by AI. Users can create bots to click through sites, scrape data, and perform web-based workflows via a visual builder (with options to integrate LLM decisions). _(Paid)_
-- [Browse.ai](https://browse.ai) - Web automation service offering pre-built bots for tasks like monitoring and data extraction. Provides an AI assistant mode where you can describe what to scrape or do on a site, and it configures the workflow. _(Paid)_
 - [Dendrite](https://dendrite.ai) - Framework-agnostic platform for building reliable web agents. Focuses on atomic actions (click, type, etc.) with support for authentication, data extraction, and multi-factor flows. Aims to integrate with any stack to add web automation capabilities to your AI. _(Private Beta, Paid)_
-- [ZeroStep](https://zerostep.ai) - AI-powered web testing and automation tool. Specializes in using LLMs to generate and execute end-to-end tests on web applications, automatically handling element selection and validations. _(Paid)_
 - [Runner H](https://www.hcompany.ai/) - Autonomous web assistant.
 - [Harpa.ai](https://harpa.ai/) - Browser-based autonomous navigation assistant.
 - [Starizon.ai](https://starizon.ai/) - Innovative web copilot.
-- [Runcopycat](https://www.runcopycat.com/) - No-code browser automation copilot.
 - [WebVoyager (Agent)](https://github.com/MinorJerry/WebVoyager) - Vision-enabled web agent.
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Configure and deploy autonomous AI agents in your browser for web research and data extraction. _(Open-source)_ ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [Automa](https://github.com/AutomaApp/Automa) - No-code browser automation tool for automating repetitive tasks like form filling and data extraction. ![GitHub Repo stars](https://img.shields.io/github/stars/AutomaApp/Automa?style=social)
-- [doBrowser](https://www.dobrowser.io) - Innovative browser solution for AI agents.
-- [proxy by Convergence](https://convergence.ai) - Provides proxy services for agent integration.
+- [doBrowser](https://www.dobrowser.io) - An AI-powered Chrome extension that understands natural language and takes actions in your browser on your behalf.
+- [Proxy by Convergence](https://convergence.ai) - Proxy is your AI-powered digital assistant that explores the web and executes tasks through simple conversation. _(Free Plan)_
+- [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's operator tool for automation.
+- [Google Project Mariner](https://deepmind.google/technologies/project-mariner/) - An innovative web automation project.
 
 ## AI Web Automation Tools
 
-Frameworks and libraries that translate natural language instructions into web interactions.
-
-### Open Source
+Tools, frameworks and libraries that translate natural language instructions into web interactions.
 
 - [Agent-E](https://github.com/EmergenceAI/Agent-E) - Agent-driven automation framework with advanced HTML DOM distillation and multi-agent architecture. ![GitHub Repo stars](https://img.shields.io/github/stars/EmergenceAI/Agent-E?style=social)
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - Experimental open-source application showcasing GPT-4's capabilities for autonomous task completion and web browsing. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/Auto-GPT?style=social)
 - [BabyAGI](https://github.com/yoheinakajima/babyagi) - Simplified version of Task-Driven Autonomous Agent using OpenAI and Pinecone APIs. ![GitHub Repo stars](https://img.shields.io/github/stars/yoheinakajima/babyagi?style=social)
-- [Browser-Use](https://www.browser-use.com) - Toolkit that bridges AI and the browser. ![GitHub Repo stars](https://img.shields.io/github/stars/Browser-Use/browser-use?style=social)
 - [LaVague](https://www.lavague.ai/) - A framework for developing AI web agents. ![GitHub Repo stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social)
 - [LLamaIndex](https://github.com/jerryjliu/llama_index) - Framework for connecting LLMs with external data for web scraping and data extraction. ![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/llama_index?style=social)
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - Uses LLMs for intelligent scraping and content understanding. ![GitHub Repo stars](https://img.shields.io/github/stars/mishushakov/llm-scraper?style=social)
@@ -104,19 +92,25 @@ Frameworks and libraries that translate natural language instructions into web i
 - [Tarsier](https://github.com/reworkd/tarsier) - Vision utilities library for web interaction agents. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/tarsier?style=social)
 - [VimGPT](https://github.com/ishan0102/vimGPT) - Experimental project using GPT-4 Vision to browse the web via the Vimium extension. Accepts natural language goals and visually interprets pages to click links, fill fields, etc., all with keyboard-only (vim-like) control. _(Open-source)_ ![GitHub Repo stars](https://img.shields.io/github/stars/ishan0102/vimGPT?style=social)
 - [WebAgent (OpenAgents)](https://github.com/xlang-ai/OpenAgents) - The web-browsing agent module of the OpenAgents platform (HKU). Enables autonomous navigation of websites via natural language, as part of a larger multi-modal agent framework. _(Open-source)_ ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
-- [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's operator tool for automation.
-- [Google Project Mariner](https://deepmind.google/technologies/project-mariner/) - An innovative web automation project.
 - [Langchain Playwright toolkit](https://python.langchain.com/docs/integrations/tools/playwright/#use-within-an-agent) - Toolkit integration with AI agents.
-- [Omniparser](https://microsoft.github.io/OmniParser/) - Tool for parsing and automation.
 - [Cekura.io](https://www.cekura.io/) - New AI web automation tool.
 - [Kura](https://www.trykura.com/) - AI web automation platform.
-- [Automina](https://automina.app/) - No-code automation solution.
+- [Runcopycat](https://www.runcopycat.com/) - No-code browser automation copilot.
+- [Bardeen.ai](https://bardeen.ai) - Chrome extension to run AI-powered browser automations.
+- [Automina](https://automina.app/) - No-code AI automation tool with drag-and-drop interface for building and sharing web automation workflows. _(Free tier, Paid plans)_
+- [Strawberry Browser](https://www.strawberrybrowser.com/) - Personal assistant that sits in your browser and gets shit done.
+- [Highlight](https://highlightai.com/) - Highlight AI lets models understand your desktop activity. Get stuff done faster.
+
+### Dev Tools
+- [Steel.dev](https://steel.dev) - Open-source headless browser API built specifically for AI agents and apps. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
+- [Omniparser](https://microsoft.github.io/OmniParser/) - Tool for parsing and automation.
 
 ## AI Web Crawlers
 
 Autonomous crawlers that leverage AI to navigate websites and extract content.
 
 - [FireCrawl](https://www.firecrawl.dev/) - AI-driven web crawling platform for structured data extraction. _(Open-source engine, Paid service)_
+- [Crawel4AI](crawl4ai.com) - Open-source LLM Friendly Web Crawler & Scraper. ![GitHub Repo stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)
 - [GPT Scraper](https://github.com/asyml/gpt-scraper) - Uses GPT models to interpret and extract data from complex web pages. ![GitHub Repo stars](https://img.shields.io/github/stars/asyml/gpt-scraper?style=social)
 - [Reworkd](https://reworkd.com) - No-code web data extraction solution using agentic AI. _(Private Beta, Paid)_
 - [WebScrapeGPT](https://github.com/miguelgfierro/webscrapegpt) - Uses GPT models to extract structured information from web pages. ![GitHub Repo stars](https://img.shields.io/github/stars/miguelgfierro/webscrapegpt?style=social)
@@ -130,7 +124,7 @@ Utilities that help agents search the web or query web data via natural language
 - [GraphQL.Chat](https://graphql.chat) - Chat-based interface for GraphQL APIs. Enables an AI agent to converse with a GraphQL endpoint using natural language. _(Free, Closed-source)_
 - [Serper.dev](https://www.serper.dev) - Search API that provides Google Search results for LLM agents. _(Paid)_
 - [Jina.ai](https://jina.ai/) - Neural search platform for web data.
-- [Exa.ai](https://exa.ai) - Semantic Search Engine for AI. 
+- [Exa.ai](https://exa.ai) - Semantic Search Engine for AI.
 
 ## Benchmarks & Research
 
