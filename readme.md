@@ -28,7 +28,6 @@ A comprehensive collection of browser automation tools, AI-powered web agents, a
 
 - [Awesome Web Agents  ](#awesome-web-agents--)
   - [Contents](#contents)
-  - [Browsers for AI](#browsers-for-ai)
   - [Autonomous Web Agents](#autonomous-web-agents)
   - [AI Web Automation Tools](#ai-web-automation-tools)
     - [Dev Tools](#dev-tools)
@@ -49,13 +48,6 @@ A comprehensive collection of browser automation tools, AI-powered web agents, a
 - [Opera Agentic Feature](https://techcrunch.com/2025/03/03/opera-announces-a-new-agentic-feature-for-its-browser/) - Opera announces a new agentic feature for its browser, showcasing innovative web agent integration.
 
 -->
-## Browsers for AI
-
-Cloud-hosted browser environments and APIs specifically designed for AI agents to interact with web pages seamlessly.
-
-- [Apify](https://apify.com/) - Cloud platform for web automation and scraping with support for LLM-powered agents. _(Paid)_
-- [Browserbase](browserbase.com) - Closed-source headless browser API. _(Paid)_
-- [Browserless](https://www.browserless.io) - Browser-as-a-service enabling you to use headless Chrome via simple APIs. _(Paid)_
 
 ## Autonomous Web Agents
 
