@@ -2,30 +2,46 @@
 
 <!-- title -->
 
-# Awesome Web Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![lint](https://github.com/steel-dev/awesome-web-agents/actions/workflows/lint.yaml/badge.svg)](https://github.com/steel-dev/awesome-web-agents/actions/workflows/lint.yaml)
+# Awesome Web Agents
+
+
+<p align="center">
+  <a href="https://awesome.re" target="_blank">
+    <img src="https://awesome.re/badge.svg">
+  </a>
+  <a href="https://twitter.com/steeldotdev" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/steeldotdev.svg?logo=twitter">
+  </a>
+  <a href="https://discord.gg/steel-dev" target="_blank">
+			<img src="https://img.shields.io/static/v1?label=&message=Join%20the%20discord&color=mediumslateblue">
+		</a>
+<!--   <a href="https://github.com/steel-dev/awesome-web-agents/actions/workflows/lint.yaml" target="_blank">
+    <img src="https://github.com/steel-dev/awesome-web-agents/actions/workflows/lint.yaml/badge.svg">
+  </a>-->
+</p>
 
 <!-- subtitle -->
 
 A curated list of tools, frameworks, and resources for building AI agents that can browse and interact with the web.
 
+</div>
+
+<h2>About Steel</h2>
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
+<a href="https://steel.dev" target="_blank" rel="noopener noreferrer">
   <img src="steel_hero.png" />
 </a>
 
+Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser API built specifically for AI agents. We make it easy to build AI applications that can effectively interact with the web.
+
+✨ Get started for free [here](https://app.steel.dev).
 <!-- description -->
-
-A comprehensive collection of browser automation tools, AI-powered web agents, and related resources for building autonomous systems that can navigate and interact with websites.
-
-</div>
-
 <!-- TOC -->
 
-## Contents
+<h2>Contents</h2>
 
-- [Awesome Web Agents  ](#awesome-web-agents--)
-  - [Contents](#contents)
+- [Awesome Web Agents](#awesome-web-agents)
   - [Autonomous Web Agents](#autonomous-web-agents)
     - [Computer-use Agents](#computer-use-agents)
   - [AI Web Automation Tools](#ai-web-automation-tools)
@@ -117,7 +133,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 
 ## AI Web Scrapers/Crawlers
 
-Autonomous crawlers that leverage AI to navigate websites and extract content.
+Web crawlers & scrapers that leverage AI to navigate websites and extract content.
 
 - [FireCrawl](https://www.firecrawl.dev/) - APIs for turning websites into LLM-friendly markdown. ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social)
 - [Crawl4AI](https://crawl4ai.com) - Open-source LLM Friendly Web Crawler & Scraper. ![GitHub Repo stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)
