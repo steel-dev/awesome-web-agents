@@ -34,7 +34,7 @@ A comprehensive collection of browser automation tools, AI-powered web agents, a
   - [Web Search \& Query Tools](#web-search--query-tools)
   - [Benchmarks \& Research](#benchmarks--research)
   - [Tutorials \& Guides](#tutorials--guides)
-  - [Interested in implemented Steel into your AI product?](#interested-in-implemented-steel-into-your-ai-product)
+  - [Interested in implementing Steel?](#interested-in-implementing-steel)
   - [Join the Community](#join-the-community)
   - [Contributing](#contributing)
     - [Contributors](#contributors)
@@ -165,10 +165,10 @@ Resources for learning how to build, deploy, or utilize AI web agents.
 
 <!-- END CONTENT -->
 
-## Interested in implemented Steel into your AI product?
+## Interested in implementing Steel?
 Feel free to reach out at [team@steel.dev](mailto:team@steel.dev?subject=Hello%20from%20github!) or on [Discord](https://discord.gg/steel-dev).
 
-Steel is [open-source](https://github.com/steel-dev/steel-browser) and free to get started with, you can get started [here](https://app.steel.dev).
+Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser API built specifically for AI agents. Get started for free [here](https://app.steel.dev).
 
 
 ## Join the Community
