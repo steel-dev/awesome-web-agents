@@ -88,7 +88,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Yutori](https://yutori.com/) - A multi-agent system that executes browser-based tasks in parallel given a natural language prompt.
 - [Automina](https://automina.app/) - AI browser automation tool with natural language control.
 - [rtrvr.ai](https://www.rtrvr.ai/) - AI Web Agent Chrome Extension that autonomously does tasks, scrapes to Sheets, and calls API's – all with just prompts and your own browser!
-- [Nanobrowser](https://nanobrowser.ai) - An open-source & local-first AI web agent Chrome extention with flexible LLM options and multi-agent system. ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social)
+- [Nanobrowser](https://nanobrowser.ai) - An open-source & local-first AI web agent Chrome extension with flexible LLM options and multi-agent system. ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social)
 
 ### Computer-use Agents
 
