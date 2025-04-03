@@ -143,6 +143,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [WebAgent (OpenAgents)](https://github.com/xlang-ai/OpenAgents) - The web-browsing agent module of the OpenAgents platform (HKU). Enables autonomous navigation of websites via natural language, as part of a larger multi-modal agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API you can rely on.
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - Uses LLMs for intelligent scraping and content understanding. ![GitHub Repo stars](https://img.shields.io/github/stars/mishushakov/llm-scraper?style=social)
+- [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
 
 ## Web Search & Query Tools
 
