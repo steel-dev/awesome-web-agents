@@ -89,6 +89,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Automina](https://automina.app/) - AI browser automation tool with natural language control.
 - [rtrvr.ai](https://www.rtrvr.ai/) - AI Web Agent Chrome Extension that autonomously does tasks, scrapes to Sheets, and calls API's – all with just prompts and your own browser!
 - [Nanobrowser](https://nanobrowser.ai) - An open-source & local-first AI web agent Chrome extension with flexible LLM options and multi-agent system. ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social)
+- [Browserable](https://browserable.ai) - An open-source & self-hostable browser automation library for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/browserable/browserable?style=social)
 
 ### Computer-use Agents
 
