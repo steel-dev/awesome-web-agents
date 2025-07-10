@@ -155,6 +155,8 @@ Utilities that help agents search the web or query web data via natural language
 - [Serper.dev](https://serper.dev/) - Performant and cost effective search API that provides Google Search results for your agents.
 - [Jina.ai](https://jina.ai/) - Neural search platform for web data.
 - [Exa.ai](https://exa.ai) - Semantic Search Engine for AI.
+- [Serplux](https://serplux.com/) - AI Growth Agents to Boost Traffic, Rankings & Sales - 24/7
+- 
 
 ## Benchmarks & Research
 
