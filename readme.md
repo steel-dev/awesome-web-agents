@@ -69,7 +69,6 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
 
 AI agents that autonomously navigate and interact with the web through a user-friendly interface. (a.k.a Browser Agents)
 
-- [Tongyi WebAgent](https://github.com/Alibaba-NLP/WebAgent) - WebAgent for Information Seeking bulit by Tongyi Lab, Alibaba Group. ![GitHub Repo stars](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent?style=social)
 - [Surf.new](https://surf.new) - An open-source playground for chatting with different web agents. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/surf.new?style=social)
 - [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's AI agents that can browser the web for you.
 - [Browser-Use](https://www.browser-use.com) - SOTA agent and framework that makes the web LLM-friendly. ![GitHub Repo stars](https://img.shields.io/github/stars/Browser-Use/browser-use?style=social)
@@ -91,6 +90,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [rtrvr.ai](https://www.rtrvr.ai/) - AI Web Agent Chrome Extension that autonomously does tasks, scrapes to Sheets, and calls API's – all with just prompts and your own browser!
 - [Nanobrowser](https://nanobrowser.ai) - An open-source & local-first AI web agent Chrome extension with flexible LLM options and multi-agent system. ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social)
 - [Browserable](https://browserable.ai) - An open-source & self-hostable browser automation library for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/browserable/browserable?style=social)
+- [Tongyi WebAgent](https://github.com/Alibaba-NLP/WebAgent) - WebAgent for Information Seeking bulit by Tongyi Lab, Alibaba Group. ![GitHub Repo stars](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent?style=social)
 
 ### Computer-use Agents
 
