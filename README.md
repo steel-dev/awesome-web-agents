@@ -79,6 +79,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Browser-Use](https://www.browser-use.com) - SOTA agent and framework that makes the web LLM-friendly. ![GitHub Repo stars](https://img.shields.io/github/stars/Browser-Use/browser-use?style=social)
 - [Skyvern-AI](https://www.skyvern.com/) - Framework to automate browser-based workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
 - [Google Project Mariner](https://deepmind.google/technologies/project-mariner/) - A research prototype exploring the future of human-agent interaction, starting with your browser.
+- [Sentience API](https://www.sentienceapi.com) - A tool for building more deterministic and explainable web agents using semantic geometry on web content.
 - [Runner H](https://www.hcompany.ai/) - State-of-the-art AI agent that helps automate complex, cumbersome, multi-step tasks without repetitive manual input.
 - [WebVoyager (Agent)](https://github.com/MinorJerry/WebVoyager) - Vision-enabled web agent. ![GitHub Repo stars](https://img.shields.io/github/stars/MinorJerry/WebVoyager?style=social)
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Deploy autonomous AI agents in your browser. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
