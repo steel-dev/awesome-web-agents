@@ -75,6 +75,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Skyvern-AI](https://www.skyvern.com/) - Framework to automate browser-based workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
 - [Proxy by Convergence](https://convergence.ai) - Proxy is your AI-powered digital assistant that explores the web and executes tasks through simple conversation.
 - [Google Project Mariner](https://deepmind.google/technologies/project-mariner/) - A research prototype exploring the future of human-agent interaction, starting with your browser.
+- [Sentience API](https://www.sentienceapi.com) - Make AI web agents deterministic, debuggable, and reproducible with Visual Grounding Runtime
 - [Runner H](https://www.hcompany.ai/) - Runner H is a state-of-the-art AI agent that will allow anyone to automate complex, cumbersome, multi-step tasks without repetitive and manual input.
 - [WebVoyager (Agent)](https://github.com/MinorJerry/WebVoyager) - Vision-enabled web agent. ![GitHub Repo stars](https://img.shields.io/github/stars/MinorJerry/WebVoyager?style=social)
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Deploy autonomous AI agents in your browser. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
