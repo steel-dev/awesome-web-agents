@@ -122,6 +122,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Dia Browser](https://www.diabrowser.com/) - Dia Browser is envisioned as an entirely new web browser built with AI at the center by The Browser Company (Arc).
 - [Reworkd](https://reworkd.ai) - No-code web data extraction solution using agentic AI.
 - [Ottogrid](https://ottogrid.ai/) - Spreadsheet based web agents to automate manual research.
+- [Onpiste](https://onpiste.work) - Chrome extension, use ai copilot to control and read webpage, All-in-one (Auto Summary / Web Automation / Scrapers)support MCP as well.
 
 ### Dev Tools
 
