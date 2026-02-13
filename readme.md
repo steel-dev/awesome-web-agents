@@ -133,6 +133,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Stagehand](https://www.stagehand.dev/) - AI web browsing framework. ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/stagehand?style=social)
 - [Tarsier](https://github.com/reworkd/tarsier) - Vision utilities library for web interaction agents. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/tarsier?style=social)
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Experimental agent for task completion and web browsing. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
+- [TinyFish](https://www.tinyfish.ai) - Remote web agents that execute tasks on any website and return structured JSON via a single API call. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyfish-io/tinyfish-cookbook?style=social)
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
 
 ## AI Web Scrapers/Crawlers
