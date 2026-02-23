@@ -16,8 +16,8 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Describe your suggesiton
+      label: Describe your suggestion
       description: How and why is your suggestion useful to this community?
-      placeholder: I wish to see tool <xyz> here becuase it is used for...
+      placeholder: I wish to see tool <xyz> here because it is used for...
     validations:
       required: true

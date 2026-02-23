@@ -1,45 +1,44 @@
 name: lint
-on: 
+on:
   pull_request:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+concurrency:
+  group: lint-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-    awesome-lint:
-      strategy:
-        fail-fast: false
-        matrix:
-          files:
-            - "readme.md"
-      runs-on: ubuntu-latest
-      steps:
-        - name: "checkout repo"
-          uses: actions/checkout@v2
-          with:
-            fetch-depth: 0
-        - name: asdf_install
-          uses: asdf-vm/actions/install@v1
-        - name: "linting: ${{ matrix.files }}"
-          run: npx -y awesome-lint ${{ matrix.files }}
-    awesome-bot:
-      strategy:
-        fail-fast: false
-        matrix:
-          files:
-            - "readme.md"
-      runs-on: ubuntu-latest
-      steps:
-        - name: "checkout repo"
-          uses: actions/checkout@v2.0.0
-          with:
-            fetch-depth: 0
-        - name: "setup ruby"
-          uses: ruby/setup-ruby@v1
-          with:
-            ruby-version: 3.0.1
-            bundler-cache: true
-        - name: "install awesome-bot"
-          run: gem install awesome_bot
-        - name: "linting: ${{ matrix.files }}"
-          run: awesome_bot --allow-redirect --white-list https://github.com/steel-dev/awesome-web-agents ${{ matrix.files }} 
+  awesome-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 21.6.0
+      - name: Lint README
+        run: npx -y awesome-lint@2.2.3 readme.md
+
+  awesome-bot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.4"
+      - name: Install awesome_bot
+        run: gem install awesome_bot -v 1.20.0
+      - name: Check links
+        run: awesome_bot --allow-dupe --allow-redirect --white-list https://github.com/steel-dev/awesome-web-agents readme.md
