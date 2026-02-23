@@ -15,5 +15,12 @@ yarn-error.log*
 # Ruby
 .bundle/
 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
 # Link-check artifacts
 ab-results-*.json

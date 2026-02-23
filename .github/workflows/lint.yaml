@@ -41,4 +41,10 @@ jobs:
       - name: Install awesome_bot
         run: gem install awesome_bot -v 1.20.0
       - name: Check links
-        run: awesome_bot --allow-dupe --allow-redirect --white-list https://github.com/steel-dev/awesome-web-agents readme.md
+        run: |
+          # Some sites in the curated list block CI user agents; keep checks strict elsewhere.
+          awesome_bot \
+            --allow-dupe \
+            --allow-redirect \
+            --white-list "https://github.com/steel-dev/awesome-web-agents,https://surf.new,https://openai.com/index/introducing-operator/,https://www.perplexity.ai/comet,https://openai.com/research/webgpt,https://dzone.com/articles/build-ai-browser-agent-llms-playwright-browser-use,https://dev.to/nodeshiftcloud/build-a-browser-use-agent-with-deepseek-a-step-by-step-guide-2n59" \
+            readme.md

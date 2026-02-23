@@ -53,6 +53,7 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
   - [Web Search \& Query Tools](#web-search--query-tools)
   - [Benchmarks \& Research](#benchmarks--research)
   - [Tutorials \& Guides](#tutorials--guides)
+  - [Archive](#archive)
   - [Interested in implementing Steel?](#interested-in-implementing-steel)
   - [Join the Community](#join-the-community)
   - [Contributing](#contributing)
@@ -77,13 +78,11 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's AI agents that can browse the web for you.
 - [Browser-Use](https://www.browser-use.com) - SOTA agent and framework that makes the web LLM-friendly. ![GitHub Repo stars](https://img.shields.io/github/stars/Browser-Use/browser-use?style=social)
 - [Skyvern-AI](https://www.skyvern.com/) - Framework to automate browser-based workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
-- [Proxy by Convergence](https://convergence.ai) - Proxy is your AI-powered digital assistant that explores the web and executes tasks through simple conversation.
 - [Google Project Mariner](https://deepmind.google/technologies/project-mariner/) - A research prototype exploring the future of human-agent interaction, starting with your browser.
 - [Runner H](https://www.hcompany.ai/) - State-of-the-art AI agent that helps automate complex, cumbersome, multi-step tasks without repetitive manual input.
 - [WebVoyager (Agent)](https://github.com/MinorJerry/WebVoyager) - Vision-enabled web agent. ![GitHub Repo stars](https://img.shields.io/github/stars/MinorJerry/WebVoyager?style=social)
 - [AgentGPT](https://github.com/reworkd/AgentGPT) - Deploy autonomous AI agents in your browser. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/AgentGPT?style=social)
 - [Agent-E](https://github.com/EmergenceAI/Agent-E) - Agent & framework with HTML DOM distillation. ![GitHub Repo stars](https://img.shields.io/github/stars/EmergenceAI/Agent-E?style=social)
-- [Kura](https://www.trykura.com/) - Web Agents for the Enterprise.
 - [Manus](https://manus.im/) - A general AI agent that can execute long running tasks across tools like browsers, terminals, and text editors.
 - [doBrowser](https://www.dobrowser.io) - An AI-powered Chrome extension that understands natural language and takes actions in your browser on your behalf.
 - [WebSurfer (Autogen)](https://microsoft.github.io/autogen/stable/reference/python/autogen_ext.agents.web_surfer.html#autogen_ext.agents.web_surfer.MultimodalWebSurfer) - MultimodalWebSurfer is a multimodal agent that can search the web and visit web pages. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/autogen?style=social)
@@ -125,7 +124,6 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Comet by Perplexity](https://www.perplexity.ai/comet) - An AI-powered browser by Perplexity. Not much more details out yet.
 - [Dia Browser](https://www.diabrowser.com/) - AI-first web browser envisioned by The Browser Company (Arc).
 - [Reworkd](https://reworkd.ai) - No-code web data extraction solution using agentic AI.
-- [Ottogrid](https://ottogrid.ai/) - Spreadsheet based web agents to automate manual research.
 
 ### Dev Tools
 
@@ -187,7 +185,11 @@ Resources for learning how to build, deploy, or utilize AI web agents.
 - [LangGraph WebVoyager Tutorial](https://langchain-ai.github.io/langgraph/tutorials/web-navigation/web_voyager/) - Tutorial demonstrating how to build a web navigation agent using LangGraph Agents, Vision Models, and Web Voyager.
 - [Build an AI Browser Agent](https://dzone.com/articles/build-ai-browser-agent-llms-playwright-browser-use) - Step-by-step guide to create an AI that browses the web using Playwright and the Browser-Use library.
 - [Install & Run Browser-Use Locally](https://aleksandarhaber.com/install-and-run-browser-use-ai-agents-locally-using-ollama/) - Instructions on installing the open-source Browser-Use agent with a local LLM.
-- [Build a Browser Agent with DeepSeek](https://nodeshift.com/blog/build-a-browser-use-agent-with-deepseek-a-step-by-step-guide) - Walks through deploying a Browser-Use web UI agent powered by the DeepSeek model on a cloud VM.
+- [Build a Browser Agent with DeepSeek](https://dev.to/nodeshiftcloud/build-a-browser-use-agent-with-deepseek-a-step-by-step-guide-2n59) - Walks through deploying a Browser-Use web UI agent powered by the DeepSeek model on a cloud VM.
+
+## Archive
+
+Historical or inactive projects are tracked in [ARCHIVE.md](ARCHIVE.md).
 
 <!-- END CONTENT -->
 
