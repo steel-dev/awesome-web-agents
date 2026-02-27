@@ -6,9 +6,9 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 ALWAYS create a new branch with your proposed changes. Thank you!
 
-## Adding an new Item
+## Adding a New Item
 
-- Try to fit your item into an existing sections. [Open a suggestion](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/issues/new) to start as discussion about any new sections.
+- Try to fit your item into an existing section. [Open a suggestion](https://github.com/steel-dev/awesome-web-agents/issues/new/choose) to start a discussion about any new sections.
 - Add a new item to the bottom of the list in a section.
 - If a duplicate item exists, discuss why the new item should replace it.
 - Check your spelling & grammar.
