@@ -158,6 +158,7 @@ Utilities that help agents search the web or query web data via natural language
 - [Serper.dev](https://serper.dev/) - Performant and cost effective search API that provides Google Search results for your agents.
 - [Jina.ai](https://jina.ai/) - Neural search platform for web data.
 - [Exa.ai](https://exa.ai) - Semantic Search Engine for AI.
+- [Agent Gateway](https://github.com/OzorOwn/agent-gateway) - Free unified API gateway for AI agents with web search, web scraping, screenshots, and 35+ other tools. No API key required.
 
 ## Benchmarks & Research
 
