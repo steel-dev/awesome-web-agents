@@ -4,20 +4,61 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this suggestion form!
+        Suggest items that directly support AI systems that browse, control, scrape, or query the web.
   - type: input
-    id: suggestion
+    id: project_link
     attributes:
-      label: Link to suggestion
-      description: Please share a link to your suggestion
+      label: Project link
       placeholder: https://...
     validations:
       required: true
-  - type: textarea
-    id: description
+  - type: dropdown
+    id: section
     attributes:
-      label: Describe your suggestion
-      description: How and why is your suggestion useful to this community?
-      placeholder: I wish to see tool <xyz> here because it is used for...
+      label: Best-fit section
+      description: Which section should this item live in if accepted?
+      options:
+        - Autonomous Web Agents
+        - Computer-use Agents
+        - AI Web Automation Tools
+        - Dev Tools
+        - AI Web Scrapers/Crawlers
+        - Web Search & Query Tools
+        - Benchmarks & Research
+        - Tutorials & Guides
+        - Archive
+    validations:
+      required: true
+  - type: textarea
+    id: why_fit
+    attributes:
+      label: Why this belongs
+      description: Explain how this directly supports web agents.
+      placeholder: It belongs because...
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Primary web-agent use case or reference
+      description: Link or explain the browser, scraping, or web-query use case.
+      placeholder: The docs show...
+    validations:
+      required: true
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Are you affiliated with this project?
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true
+  - type: textarea
+    id: affiliation_details
+    attributes:
+      label: Affiliation details
+      description: If yes, describe the relationship. Otherwise write "None".
+      placeholder: None
     validations:
       required: true

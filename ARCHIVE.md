@@ -1,6 +1,6 @@
 # Awesome Web Agents Archive
 
-Historical or inactive entries moved from `readme.md`.
+Historical or inactive entries moved from `README.md`.
 
 Last reviewed: February 23, 2026.
 

@@ -214,7 +214,7 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
 
 ## Contributing
 
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+[Contributions of any kind welcome, just follow the guidelines](CONTRIBUTING.md)!
 
 ### Contributors
 

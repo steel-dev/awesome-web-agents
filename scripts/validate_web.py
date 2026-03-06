@@ -4,7 +4,7 @@ import subprocess
 from datetime import datetime, timezone
 from pathlib import Path
 
-README_PATH = Path("readme.md")
+README_PATH = Path("README.md")
 OUTPUT_PATH = Path("web-validation.json")
 
 MD_LINK_RE = re.compile(r'(!?)\[([^\]]+)\]\((https?://[^)\s]+)\)')

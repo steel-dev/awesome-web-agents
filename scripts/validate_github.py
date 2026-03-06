@@ -7,7 +7,7 @@ from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
 
-README_PATH = Path("readme.md")
+README_PATH = Path("README.md")
 OUTPUT_PATH = Path("github-validation.json")
 RAW_OUTPUT_PATH = Path("github-raw-results.json")
 REPO_URL_RE = re.compile(r"https?://github\.com/([A-Za-z0-9_.-]+)/([A-Za-z0-9_.-]+)")

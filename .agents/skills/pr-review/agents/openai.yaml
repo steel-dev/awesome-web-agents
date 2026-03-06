@@ -1,0 +1,4 @@
+interface:
+  display_name: "Awesome PR Review"
+  short_description: "Review awesome-web-agents PRs."
+  default_prompt: "Review this awesome-web-agents pull request using the local contribution policy. Inspect the diff, PR metadata, and relevant repo files, then give findings first and a clear accept/request changes/close recommendation."
