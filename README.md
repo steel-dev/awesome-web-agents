@@ -125,6 +125,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Comet by Perplexity](https://www.perplexity.ai/comet) - An AI-powered browser by Perplexity. Not much more details out yet.
 - [Dia Browser](https://www.diabrowser.com/) - AI-first web browser envisioned by The Browser Company (Arc).
 - [Reworkd](https://reworkd.ai) - No-code web data extraction solution using agentic AI.
+- [Onpiste](https://onpiste.work) - Chrome extension that uses AI to control and read webpages, including auto summaries, web automation, scraping, and MCP support.
 
 ### Dev Tools
 
