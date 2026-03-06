@@ -4,14 +4,11 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this suggestion form.
-
-        This repository is web-agent-first. Suggestions should directly support AI systems that browse, control, scrape, or query the web.
+        Suggest items that directly support AI systems that browse, control, scrape, or query the web.
   - type: input
-    id: suggestion_link
+    id: project_link
     attributes:
       label: Project link
-      description: Share the main public link for the project, docs, or repo.
       placeholder: https://...
     validations:
       required: true
@@ -33,27 +30,19 @@ body:
     validations:
       required: true
   - type: textarea
-    id: web_agent_fit
+    id: why_fit
     attributes:
       label: Why this belongs
-      description: Explain how this directly helps build, run, evaluate, or operate web agents.
-      placeholder: This should be included because it directly supports browser automation, web scraping, or web-agent evaluation by...
+      description: Explain how this directly supports web agents.
+      placeholder: It belongs because...
     validations:
       required: true
   - type: textarea
-    id: primary_use_case
+    id: evidence
     attributes:
-      label: Primary documented web-agent use case
-      description: Point to the browser, scraping, or web-query use case that is primary in the public docs or repo.
-      placeholder: The docs describe browser control / scraping / web-querying as a primary use case here...
-    validations:
-      required: true
-  - type: input
-    id: reference_link
-    attributes:
-      label: Public reference
-      description: Link to the public source maintainers should use to verify your claim.
-      placeholder: https://...
+      label: Primary web-agent use case or reference
+      description: Link or explain the browser, scraping, or web-query use case.
+      placeholder: The docs show...
     validations:
       required: true
   - type: dropdown
@@ -69,28 +58,7 @@ body:
     id: affiliation_details
     attributes:
       label: Affiliation details
-      description: If yes, describe the relationship. If no, write "None".
-      placeholder: Employee, founder, contributor, investor, agency partner, or None
+      description: If yes, describe the relationship. Otherwise write "None".
+      placeholder: None
     validations:
       required: true
-  - type: checkboxes
-    id: checks
-    attributes:
-      label: Submission checks
-      options:
-        - label: This is directly relevant to web agents, not generic AI tooling.
-          required: true
-        - label: This is not a duplicate or near-duplicate of an existing entry.
-          required: true
-        - label: The description I would propose is factual and non-promotional.
-          required: true
-        - label: The linked sources are public and verifiable.
-          required: true
-  - type: textarea
-    id: additional_context
-    attributes:
-      label: Additional context
-      description: Anything else maintainers should know?
-      placeholder: Optional context for maintainers.
-    validations:
-      required: false
