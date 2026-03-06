@@ -1,10 +1,10 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code_of_conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## Quick steps
 
-1. Add a single item to the bottom of the best-fit section in `readme.md`.
+1. Add a single item to the bottom of the best-fit section in `README.md`.
 2. Open a PR titled `Add: item-name`.
 3. Fill out the PR template completely, including section fit, public references, and affiliation disclosure.
 

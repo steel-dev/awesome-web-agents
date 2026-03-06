@@ -55,7 +55,7 @@ def load_pull_request_event() -> dict | None:
 
 def added_item_lines(base_sha: str) -> list[tuple[str, str]]:
     added: list[tuple[str, str]] = []
-    for path in ("readme.md", "ARCHIVE.md"):
+    for path in ("README.md", "ARCHIVE.md"):
         diff = run_git("diff", "--unified=0", f"{base_sha}...HEAD", "--", path)
         for line in diff.splitlines():
             if line.startswith("+++"):
@@ -122,7 +122,7 @@ def main() -> int:
 
     added_items = added_item_lines(base_sha)
     if not added_items:
-        print("No new list item detected in readme.md or ARCHIVE.md. Skipping contribution validation.")
+        print("No new list item detected in README.md or ARCHIVE.md. Skipping contribution validation.")
         return 0
 
     errors: list[str] = []
@@ -178,7 +178,7 @@ def main() -> int:
                 )
 
             repo_text = "\n".join(
-                Path(path).read_text(encoding="utf-8") for path in ("readme.md", "ARCHIVE.md") if Path(path).exists()
+                Path(path).read_text(encoding="utf-8") for path in ("README.md", "ARCHIVE.md") if Path(path).exists()
             )
             if repo_text.count(f"- [{name}](") > 1:
                 errors.append(f'The item name "{name}" already exists in the repository list.')

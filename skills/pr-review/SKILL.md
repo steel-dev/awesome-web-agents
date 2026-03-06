@@ -7,12 +7,12 @@ description: Review pull requests for the awesome-web-agents repository. Use whe
 
 ## Overview
 
-Review PRs in this repository by applying the local policy and checking the changed files. Treat `contributing.md` as the source of truth for acceptance criteria.
+Review PRs in this repository by applying the local policy and checking the changed files. Treat `CONTRIBUTING.md` as the source of truth for acceptance criteria.
 
 ## Read First
 
-- `contributing.md`
-- `readme.md`
+- `CONTRIBUTING.md`
+- `README.md`
 - `ARCHIVE.md` when the change might belong in the archive
 - `scripts/validate_contribution.py` when you need structural validation details
 
@@ -34,7 +34,7 @@ If you need the exact branch locally, fetch it with:
 
 ### 2. Apply local policy
 
-Use `contributing.md` for the actual acceptance rubric. Use `readme.md` and `ARCHIVE.md` only to judge section fit, duplicates, and whether a project belongs in the main list or archive.
+Use `CONTRIBUTING.md` for the actual acceptance rubric. Use `README.md` and `ARCHIVE.md` only to judge section fit, duplicates, and whether a project belongs in the main list or archive.
 
 ### 3. Run structural validation when useful
 
