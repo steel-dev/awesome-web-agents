@@ -32,6 +32,8 @@ ALLOWED_SECTIONS = {
 }
 
 ITEM_LINE_RE = re.compile(r"^- \[(?P<name>[^\]]+)\]\((?P<url>https?://[^)]+)\) - (?P<rest>.+)$")
+ITEM_SUBMISSION_PREFIXES = ("Add: ", "Archive: ")
+ITEM_SUBMISSION_FILES = {"README.md", "ARCHIVE.md"}
 
 
 def run_git(*args: str) -> str:
@@ -51,6 +53,11 @@ def load_pull_request_event() -> dict | None:
 
     event = json.loads(Path(event_path).read_text(encoding="utf-8"))
     return event.get("pull_request")
+
+
+def changed_files(base_sha: str) -> set[str]:
+    diff = run_git("diff", "--name-only", f"{base_sha}...HEAD")
+    return {line.strip() for line in diff.splitlines() if line.strip()}
 
 
 def added_item_lines(base_sha: str) -> list[tuple[str, str]]:
@@ -119,6 +126,13 @@ def main() -> int:
     base_sha = pull_request["base"]["sha"]
     title = (pull_request.get("title") or "").strip()
     body = pull_request.get("body") or ""
+    pr_files = changed_files(base_sha)
+
+    is_explicit_item_submission = title.startswith(ITEM_SUBMISSION_PREFIXES)
+    is_minimal_item_edit = bool(pr_files) and pr_files.issubset(ITEM_SUBMISSION_FILES)
+    if not is_explicit_item_submission and not is_minimal_item_edit:
+        print("PR is not an item submission. Skipping contribution validation.")
+        return 0
 
     added_items = added_item_lines(base_sha)
     if not added_items:
