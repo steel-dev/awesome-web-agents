@@ -94,6 +94,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Nanobrowser](https://nanobrowser.ai) - An open-source & local-first AI web agent Chrome extension with flexible LLM options and multi-agent system. ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social)
 - [Browserable](https://browserable.ai) - An open-source & self-hostable browser automation library for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/browserable/browserable?style=social)
 - [Tongyi WebAgent](https://github.com/Alibaba-NLP/WebAgent) - WebAgent for information seeking built by Tongyi Lab, Alibaba Group. ![GitHub Repo stars](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent?style=social)
+- [Openwork](https://github.com/accomplish-ai/openwork) - An MIT-licensed, open alternative to Anthropic's Cowork built with Opencode and dev-browser. Supports multiple LLM providers for launching computer-use agents to automate browser workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
 - [Dassi](https://www.dassi.ai/) - An AI coworking agent in your browser that automates tasks, navigates pages, and works with files and 2000+ apps from a side panel.
 
 ### Computer-use Agents
