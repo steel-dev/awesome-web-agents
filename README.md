@@ -141,6 +141,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Experimental agent for task completion and web browsing. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
 - [TinyFish](https://www.tinyfish.ai) - Remote web agents that execute tasks on any website and return structured JSON via a single API call. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyfish-io/tinyfish-cookbook?style=social)
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
+- [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
 
 ## AI Web Scrapers/Crawlers
 
