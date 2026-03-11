@@ -155,6 +155,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - Uses LLMs for intelligent scraping and content understanding. ![GitHub Repo stars](https://img.shields.io/github/stars/mishushakov/llm-scraper?style=social)
 - [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
 
+- [ProxyClaw](https://proxyclaw.ai) - Residential proxy skill for AI agents — route requests through 2M+ IPs across 195+ countries with anti-bot bypass and geo-targeting. Install via `clawhub install proxyclaw` or `pip install iploop-sdk`. ![GitHub Repo stars](https://img.shields.io/github/stars/Iploop/proxyclaw?style=social)
 ## Web Search & Query Tools
 
 Utilities that help agents search the web or query web data via natural language.
