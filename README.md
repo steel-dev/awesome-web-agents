@@ -44,6 +44,7 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
 <h2>Contents</h2>
 
 <!--lint disable awesome-list-item-->
+- [GNAP](https://github.com/farol-team/gnap) — Git-Native Agent Protocol: coordinate AI agent teams with 4 JSON files in a git repo. No server, no database, just git push/pull. MIT.
 - [Awesome Web Agents](#awesome-web-agents)
   - [Autonomous Web Agents](#autonomous-web-agents)
     - [Computer-use Agents](#computer-use-agents)
