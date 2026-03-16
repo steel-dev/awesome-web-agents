@@ -154,6 +154,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API you can rely on.
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - Uses LLMs for intelligent scraping and content understanding. ![GitHub Repo stars](https://img.shields.io/github/stars/mishushakov/llm-scraper?style=social)
 - [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
+- [ProxyClaw](https://proxyclaw.ai) - Residential proxy SDK for AI web agents with built-in anti-bot bypass and geographic targeting. ![GitHub Repo stars](https://img.shields.io/github/stars/Iploop/proxyclaw?style=social)
 
 ## Web Search & Query Tools
 
