@@ -165,6 +165,7 @@ Utilities that help agents search the web or query web data via natural language
 - [Jina.ai](https://jina.ai/) - Neural search platform for web data.
 - [Exa.ai](https://exa.ai) - Semantic Search Engine for AI.
 
+- [GEO Boost](https://geo-boost.makesall.cn) - AI Visibility & Agent Optimization Platform. Check brand visibility across AI search engines (ChatGPT, Gemini, Perplexity) with GEO/AEO scoring and structured data audit.
 ## Benchmarks & Research
 
 Datasets, benchmarks, and notable research efforts for evaluating and advancing web-capable AI agents.
