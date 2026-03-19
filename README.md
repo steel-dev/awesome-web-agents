@@ -131,6 +131,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 
 ### Dev Tools
 
+- [Almirant](https://almirant.ai) - OS for human-agent teams. Orchestrates multiple AI agents with persistent context, shared memory, and built-in browser automation via the OpenClaw runtime. Task lifecycle: plan → implement → review → deploy with human approval gates. ![npm](https://img.shields.io/npm/v/almirant)
 - [Steel.dev](https://steel.dev) - Open-source headless browser API built specifically for AI agents and apps. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Omniparser](https://microsoft.github.io/OmniParser/) - Tool for parsing GUIs for vision based agents. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social)
 - [LaVague](https://www.lavague.ai/) - Framework for natural language web automation. ![GitHub Repo stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social)
