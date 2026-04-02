@@ -163,7 +163,7 @@ Utilities that help agents search the web or query web data via natural language
 - [SerpAPI](https://serpapi.com/) - Search API that provides Google Search results for your agents.
 - [Serper.dev](https://serper.dev/) - Performant and cost effective search API that provides Google Search results for your agents.
 - [Jina.ai](https://jina.ai/) - Neural search platform for web data.
-- [Exa.ai](https://exa.ai) - Semantic Search Engine for AI.
+- [Exa.ai](https://exa.ai) - The fastest and most accurate web search API for AI agents.
 
 ## Benchmarks & Research
 
