@@ -153,6 +153,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [WebAgent (OpenAgents)](https://github.com/xlang-ai/OpenAgents) - The web-browsing agent module of the OpenAgents platform (HKU). Enables autonomous navigation of websites via natural language, as part of a larger multi-modal agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
 - [Expand.ai](https://www.expand.ai/) - Turns any website into a type-safe API you can rely on.
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - Uses LLMs for intelligent scraping and content understanding. ![GitHub Repo stars](https://img.shields.io/github/stars/mishushakov/llm-scraper?style=social)
+- [Plasmate](https://github.com/plasmate-labs/plasmate) - Open-source headless browser engine for AI agents. Compiles HTML to Semantic Object Model (SOM) with 17.5x token compression. 13 MCP tools. First browser tool on the MCP Registry. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/plasmate-labs/plasmate?style=social)
 - [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
 
 ## Web Search & Query Tools
@@ -175,6 +176,7 @@ Datasets, benchmarks, and notable research efforts for evaluating and advancing 
 - [Mind2Web](https://osu-nlp-group.github.io/Mind2Web) - A large-scale dataset for generalist web agents. ![GitHub Repo stars](https://img.shields.io/github/stars/OSU-NLP-Group/Mind2Web?style=social)
 - [World of Bits: An Open-Domain Platform for Web-Based Agents](https://proceedings.mlr.press/v70/shi17a/shi17a.pdf) - OpenAI's research paper that introduces World of Bits: a platform where agents complete tasks on the internet by performing low-level keyboard and mouse actions.
 - [MiniWoB++](https://miniwob.farama.org) - A classic suite of 104 mini web browser tasks in a synthetic environment. It is an extension of the OpenAI MiniWoB benchmark. ![GitHub Repo stars](https://img.shields.io/github/stars/Farama-Foundation/miniwob-plusplus?style=social)
+- [WebTaskBench](https://github.com/plasmate-labs/plasmate-benchmarks) - 51-URL benchmark comparing HTML vs Markdown vs SOM representations for AI agents. Measures token efficiency, latency, and accuracy across GPT-4o and Claude Sonnet 4.
 - [WebArena](https://webarena.dev) - A realistic, self-hostable web environment for autonomous agents. Includes official leaderboard tracking agent performance. ![GitHub Repo stars](https://img.shields.io/github/stars/web-arena-x/webarena?style=social)
 - [WebCanvas](https://github.com/iMeanAI/WebCanvas) - An online evaluation framework for dynamic web environments. Tests agents on live websites. ![GitHub Repo stars](https://img.shields.io/github/stars/iMeanAI/WebCanvas?style=social)
 - [WebGPT](https://openai.com/research/webgpt) - OpenAI's browser-assisted question-answering research project.
