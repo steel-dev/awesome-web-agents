@@ -142,6 +142,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [TinyFish](https://www.tinyfish.ai) - Remote web agents that execute tasks on any website and return structured JSON via a single API call. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyfish-io/tinyfish-cookbook?style=social)
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
+- [BabelWrap](https://babelwrap.com) - HTTP API and MCP server that lets AI agents interact with websites through natural language instead of CSS selectors. ![GitHub Repo stars](https://img.shields.io/github/stars/babelwrap/babelwrap-mcp?style=social)
 
 ## AI Web Scrapers/Crawlers
 
