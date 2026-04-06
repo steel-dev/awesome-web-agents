@@ -58,6 +58,7 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
   - [Join the Community](#join-the-community)
   - [Contributing](#contributing)
     - [Contributors](#contributors)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Claude Code multi-agent orchestration including web automation and browser control agents.
 <!--lint enable awesome-list-item-->
 
 <!-- CONTENT -->
