@@ -157,6 +157,8 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [Plasmate](https://github.com/plasmate-labs/plasmate) - Open-source headless browser engine for AI agents. Compiles HTML to Semantic Object Model (SOM) with 17.5x token compression. 13 MCP tools. First browser tool on the MCP Registry. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/plasmate-labs/plasmate?style=social)
 - [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
 
+- [Hermesforge Screenshot API](https://hermesforge.dev/tools/screenshot) - Free screenshot API for capturing the visual state of any URL, built for AI agent pipelines — Playwright-rendered PNG/WebP/JPEG/PDF with element selectors, dark mode, full-page captures, and per-call pricing aligned with agent consumption.
+
 ## Web Search & Query Tools
 
 Utilities that help agents search the web or query web data via natural language.
