@@ -166,6 +166,7 @@ Utilities that help agents search the web or query web data via natural language
 - [Serper.dev](https://serper.dev/) - Performant and cost effective search API that provides Google Search results for your agents.
 - [Jina.ai](https://jina.ai/) - Neural search platform for web data.
 - [Exa.ai](https://exa.ai) - The fastest and most accurate web search API for AI agents.
+- [Global Chat](https://global-chat.io) - Cross-protocol agent discovery directory with an MCP server for querying 100K+ agents across 15+ web registries. ![GitHub Repo stars](https://img.shields.io/github/stars/pumanitro/global-chat?style=social)
 
 ## Benchmarks & Research
 
