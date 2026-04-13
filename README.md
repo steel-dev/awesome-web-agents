@@ -143,6 +143,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
 - [BabelWrap](https://babelwrap.com) - HTTP API and MCP server that lets AI agents interact with websites through natural language instead of CSS selectors. ![GitHub Repo stars](https://img.shields.io/github/stars/babelwrap/babelwrap-mcp?style=social)
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## AI Web Scrapers/Crawlers
 
