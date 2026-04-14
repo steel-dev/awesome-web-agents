@@ -187,6 +187,7 @@ Datasets, benchmarks, and notable research efforts for evaluating and advancing 
 - [WorkArena](https://github.com/ServiceNow/WorkArena) - A suite of 33 browser-based tasks for enterprise "knowledge worker" scenarios. ![GitHub Repo stars](https://img.shields.io/github/stars/ServiceNow/WorkArena?style=social)
 - [BrowserGym by ServiceNow](https://github.com/ServiceNow/BrowserGym) - A gym environment for web task automation. ![GitHub Repo stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social)
 - [TimeWarp](https://timewarp-web.github.io) - A benchmark on historical versions of web UI.
+- [ClawBench](https://claw-bench.com) - Benchmark of 153 real-world tasks across 144 live websites for evaluating AI browser agents. Best model scores 33.3%. ([Paper](https://arxiv.org/abs/2604.08523), [Dataset](https://huggingface.co/datasets/NAIL-Group/ClawBench), [GitHub](https://github.com/reacher-z/ClawBench))
 
 ## Tutorials & Guides
 
