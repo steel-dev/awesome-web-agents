@@ -222,6 +222,7 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
 - Feel free to reach out to us at [team@steel.dev](mailto:team@steel.dev?subject=Hello%20from%20github!)
 <!--lint enable double-link-->
 
+- [Bernstein](https://github.com/chernistry/bernstein) - Open-source multi-agent orchestrator for AI coding agents. Manages parallel agent execution in git worktrees with quality gates and cost tracking.
 ## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](CONTRIBUTING.md)!
