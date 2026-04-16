@@ -166,6 +166,7 @@ Utilities that help agents search the web or query web data via natural language
 - [Serper.dev](https://serper.dev/) - Performant and cost effective search API that provides Google Search results for your agents.
 - [Jina.ai](https://jina.ai/) - Neural search platform for web data.
 - [Exa.ai](https://exa.ai) - The fastest and most accurate web search API for AI agents.
+- [Not Human Search](https://nothumansearch.ai) - Search engine that indexes 1,750+ agent-first tools ranked by agentic readiness. Available as an MCP server with tools for searching, scoring, and monitoring agent infrastructure.
 
 ## Benchmarks & Research
 
