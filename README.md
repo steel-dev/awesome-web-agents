@@ -143,6 +143,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
 - [BabelWrap](https://babelwrap.com) - HTTP API and MCP server that lets AI agents interact with websites through natural language instead of CSS selectors. ![GitHub Repo stars](https://img.shields.io/github/stars/babelwrap/babelwrap-mcp?style=social)
+- [Hermesforge Screenshot API](https://hermesforge.dev/api) - Headless screenshot API for AI agent pipelines. Playwright-rendered PNG/WebP/JPEG/PDF with async queue, webhook delivery, and base64 output for multimodal LLMs. LangChain integration via [langchain-hermes](https://hermesforge.dev/langchain). Freemium; paid tiers from $4/30 days.
 
 ## AI Web Scrapers/Crawlers
 
@@ -156,8 +157,6 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - Uses LLMs for intelligent scraping and content understanding. ![GitHub Repo stars](https://img.shields.io/github/stars/mishushakov/llm-scraper?style=social)
 - [Plasmate](https://github.com/plasmate-labs/plasmate) - Open-source headless browser engine for AI agents. Compiles HTML to Semantic Object Model (SOM) with 17.5x token compression. 13 MCP tools. First browser tool on the MCP Registry. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/plasmate-labs/plasmate?style=social)
 - [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
-
-- [Hermesforge Screenshot API](https://hermesforge.dev/tools/screenshot) - Free screenshot API for capturing the visual state of any URL, built for AI agent pipelines — Playwright-rendered PNG/WebP/JPEG/PDF with element selectors, dark mode, full-page captures, and per-call pricing aligned with agent consumption.
 
 ## Web Search & Query Tools
 
