@@ -131,6 +131,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 
 ### Dev Tools
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
 - [Steel.dev](https://steel.dev) - Open-source headless browser API built specifically for AI agents and apps. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Omniparser](https://microsoft.github.io/OmniParser/) - Tool for parsing GUIs for vision based agents. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social)
 - [LaVague](https://www.lavague.ai/) - Framework for natural language web automation. ![GitHub Repo stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social)
