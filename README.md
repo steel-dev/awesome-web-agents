@@ -143,6 +143,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
 - [BabelWrap](https://babelwrap.com) - HTTP API and MCP server that lets AI agents interact with websites through natural language instead of CSS selectors. ![GitHub Repo stars](https://img.shields.io/github/stars/babelwrap/babelwrap-mcp?style=social)
+- [Webagent-cloud](https://webagent.cloud) - Open-source API for browser agents to automate repetitive workflows. Works with any provider, minimizes costs, and improves reliability with a self-healing action cache. ![GitHub Repo stars](https://img.shields.io/github/stars/webagent-cloud/webagent?style=social)
 
 ## AI Web Scrapers/Crawlers
 
