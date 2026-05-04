@@ -143,6 +143,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
 - [BabelWrap](https://babelwrap.com) - HTTP API and MCP server that lets AI agents interact with websites through natural language instead of CSS selectors. ![GitHub Repo stars](https://img.shields.io/github/stars/babelwrap/babelwrap-mcp?style=social)
+- [Hermesforge Screenshot API](https://hermesforge.dev/api) - Visual perception API for AI agent pipelines. Captures any URL via Playwright and returns base64-encoded PNG/WebP/JPEG/PDF for multimodal LLMs, with async queue and webhook delivery for long-running agent tasks. LangChain integration available.
 
 ## AI Web Scrapers/Crawlers
 
@@ -231,3 +232,4 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/steel-dev/awesome-web-agents/graphs/contributors)!
+
