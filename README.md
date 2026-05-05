@@ -23,6 +23,7 @@
 <!-- subtitle -->
 
 A curated list of tools, frameworks, and resources for building AI agents that can browse and interact with the web.
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time monitoring dashboard for OpenClaw AI agents — tracks Gateway health, token usage, and message trends
 
 </div>
 
