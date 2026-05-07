@@ -230,4 +230,3 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/steel-dev/awesome-web-agents/graphs/contributors)!
-
