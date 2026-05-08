@@ -162,6 +162,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 
 Utilities that help agents search the web or query web data via natural language.
 
+- [Prismfy Wizard](https://github.com/prismfy/prismfy-wizard) — CLI that installs persistent live web search rules into local AI agent workflows by adding a `prismfy-search` command and managed search-policy blocks to agent instruction files.
 - [AgentQL](https://www.agentql.com/) - A query language and toolkit that makes the web AI-ready. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyfish-io/agentql?style=social)
 - [SerpAPI](https://serpapi.com/) - Search API that provides Google Search results for your agents.
 - [Serper.dev](https://serper.dev/) - Performant and cost effective search API that provides Google Search results for your agents.
