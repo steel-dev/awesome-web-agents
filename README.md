@@ -135,8 +135,9 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Omniparser](https://microsoft.github.io/OmniParser/) - Tool for parsing GUIs for vision based agents. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social)
 - [LaVague](https://www.lavague.ai/) - Framework for natural language web automation. ![GitHub Repo stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social)
 - [LangChain Playwright Toolkit](https://python.langchain.com/docs/integrations/tools/playwright/#use-within-an-agent) - Toolkit integration with AI agents.
+- [Notte](https://notte.cc) - Browser infrastructure for AI agents. Sessions, agents, and authentication primitives.
 - [Browserbase](https://browserbase.com) - A headless browser API for AI workflows.
-- [Stagehand](https://www.stagehand.dev/) - AI web browsing framework. ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/stagehand?style=social)
+- [Stagehand](https://www.stagehand.dev/) - AI web browsing framework. ![GitHub Repo stars](https://img.shields.io/github/stars/browserbase/stagehand?style=social) 
 - [Tarsier](https://github.com/reworkd/tarsier) - Vision utilities library for web interaction agents. ![GitHub Repo stars](https://img.shields.io/github/stars/reworkd/tarsier?style=social)
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - Experimental agent for task completion and web browsing. ![GitHub Repo stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social)
 - [TinyFish](https://www.tinyfish.ai) - Remote web agents that execute tasks on any website and return structured JSON via a single API call. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyfish-io/tinyfish-cookbook?style=social)
