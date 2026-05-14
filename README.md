@@ -131,6 +131,8 @@ Tools, frameworks and libraries that translate natural language instructions int
 
 ### Dev Tools
 
+- [APort Agent Guardrails](https://github.com/aporthq/aport-agent-guardrails) - Runtime policy guardrails for AI/browser agents, with pre-action authorization hooks and local or API enforcement for risky tool calls.
+
 - [Steel.dev](https://steel.dev) - Open-source headless browser API built specifically for AI agents and apps. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Omniparser](https://microsoft.github.io/OmniParser/) - Tool for parsing GUIs for vision based agents. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social)
 - [LaVague](https://www.lavague.ai/) - Framework for natural language web automation. ![GitHub Repo stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social)
