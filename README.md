@@ -168,6 +168,7 @@ Utilities that help agents search the web or query web data via natural language
 - [Jina.ai](https://jina.ai/) - Neural search platform for web data.
 - [Exa.ai](https://exa.ai) - The fastest and most accurate web search API for AI agents.
 - [Not Human Search](https://nothumansearch.ai) - Search engine that indexes 1,750+ agent-first tools ranked by agentic readiness. Available as an MCP server with tools for searching, scoring, and monitoring agent infrastructure.
+- [TweetClaw](https://github.com/Xquik-dev/tweetclaw) - OpenClaw plugin for agents to search tweets, search tweet replies, run user lookup, export followers, monitor X/Twitter, and post with approval through structured Xquik endpoints.
 
 ## Benchmarks & Research
 
