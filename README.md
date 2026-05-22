@@ -157,6 +157,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [LLM Scraper](https://github.com/mishushakov/llm-scraper) - Uses LLMs for intelligent scraping and content understanding. ![GitHub Repo stars](https://img.shields.io/github/stars/mishushakov/llm-scraper?style=social)
 - [Plasmate](https://github.com/plasmate-labs/plasmate) - Open-source headless browser engine for AI agents. Compiles HTML to Semantic Object Model (SOM) with 17.5x token compression. 13 MCP tools. First browser tool on the MCP Registry. Rust, Apache-2.0. ![GitHub Repo stars](https://img.shields.io/github/stars/plasmate-labs/plasmate?style=social)
 - [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
+- [TheCrawler](https://github.com/manchittlab/TheCrawler) - GitHub-source MCP server and CLI for web crawling, extraction diagnostics, and validated extraction contracts. ![GitHub Repo stars](https://img.shields.io/github/stars/manchittlab/TheCrawler?style=social)
 
 ## Web Search & Query Tools
 
