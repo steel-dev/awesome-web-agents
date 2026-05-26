@@ -128,6 +128,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Dia Browser](https://www.diabrowser.com/) - AI-first web browser envisioned by The Browser Company (Arc).
 - [Reworkd](https://reworkd.ai) - No-code web data extraction solution using agentic AI.
 - [Onpiste](https://onpiste.work) - Chrome extension that uses AI to control and read webpages, including auto summaries, web automation, scraping, and MCP support.
+- [Komos](https://www.komos.ai/) - AI browser workflow automation platform that turns recorded web tasks into reusable runs with API triggers, schedules, credentials, logs, and human review.
 
 ### Dev Tools
 
