@@ -148,6 +148,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Hermesforge Screenshot API](https://hermesforge.dev/api) - Visual perception API for AI agent pipelines. Playwright-renders any URL and returns base64-encoded PNG/WebP/JPEG/PDF as direct multimodal LLM context; supports async queue and webhook delivery for long-running observation tasks.
 - [BrowserTrace](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging Playwright, Browser Use, Stagehand, and other web-agent runs with redacted shareable exports. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronlab/browsertrace?style=social)
 - [Notte](https://notte.cc) - Browser infrastructure for AI agents with managed sessions, an agent runtime, and credential vault and persona authentication primitives. ![GitHub Repo stars](https://img.shields.io/github/stars/nottelabs/notte?style=social)
+- [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
 
 ## AI Web Scrapers/Crawlers
 
