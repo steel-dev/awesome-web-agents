@@ -150,6 +150,8 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Notte](https://notte.cc) - Browser infrastructure for AI agents with managed sessions, an agent runtime, and credential vault and persona authentication primitives. ![GitHub Repo stars](https://img.shields.io/github/stars/nottelabs/notte?style=social)
 - [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
 - [Webwright](https://github.com/microsoft/Webwright) - Browser agent framework from Microsoft Research where the agent writes and runs Playwright scripts in a terminal workspace; supports OpenAI, Anthropic, and OpenRouter backends. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Webwright?style=social)
+- [traceAI](https://github.com/future-agi/traceAI) - Open-source OpenTelemetry-native tracing for LLM and agent apps. Auto-instruments 50+ frameworks across Python, TypeScript, Java, and C# (OpenAI, Anthropic, LangChain, LlamaIndex, CrewAI, Bedrock). No vendor lock-in. ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/traceAI?style=social)
+- [Future AGI simulate-sdk](https://github.com/future-agi/simulate-sdk) - Open-source SDK for simulating voice and text AI agents through persona- and scenario-driven multi-turn conversations before launch. ![GitHub Repo stars](https://img.shields.io/github/stars/future-agi/simulate-sdk?style=social)
 
 ## AI Web Scrapers/Crawlers
 
