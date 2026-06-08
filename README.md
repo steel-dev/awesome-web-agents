@@ -150,6 +150,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Notte](https://notte.cc) - Browser infrastructure for AI agents with managed sessions, an agent runtime, and credential vault and persona authentication primitives. ![GitHub Repo stars](https://img.shields.io/github/stars/nottelabs/notte?style=social)
 - [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
 - [Webwright](https://github.com/microsoft/Webwright) - Browser agent framework from Microsoft Research where the agent writes and runs Playwright scripts in a terminal workspace; supports OpenAI, Anthropic, and OpenRouter backends. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Webwright?style=social)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Before deploying a web agent on behalf of a user, verify the agent wallet identity with free `preflight_check()` or get a signed trust receipt via x402 micropayment. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## AI Web Scrapers/Crawlers
 
