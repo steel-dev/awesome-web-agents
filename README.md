@@ -208,6 +208,7 @@ Resources for learning how to build, deploy, or utilize AI web agents.
 - [Build an AI Browser Agent](https://dzone.com/articles/build-ai-browser-agent-llms-playwright-browser-use) - Step-by-step guide to create an AI that browses the web using Playwright and the Browser-Use library.
 - [Install & Run Browser-Use Locally](https://aleksandarhaber.com/install-and-run-browser-use-ai-agents-locally-using-ollama/) - Instructions on installing the open-source Browser-Use agent with a local LLM.
 - [Build a Browser Agent with DeepSeek](https://dev.to/nodeshiftcloud/build-a-browser-use-agent-with-deepseek-a-step-by-step-guide-2n59) - Walks through deploying a Browser-Use web UI agent powered by the DeepSeek model on a cloud VM.
+- [Web Search in AutoGen Agents (x402 Pay-Per-Call)](https://superhighway.walls.sh/guides/web-search-autogen) - Adds live web search to AutoGen 0.4+ agents via a USDC pay-per-call API, covering both MCP tool and inline function-tool paths.
 
 ## Archive
 
