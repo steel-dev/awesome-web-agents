@@ -153,6 +153,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Webwright](https://github.com/microsoft/Webwright) - Browser agent framework from Microsoft Research where the agent writes and runs Playwright scripts in a terminal workspace; supports OpenAI, Anthropic, and OpenRouter backends. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Webwright?style=social)
 - [BrowserAct](https://github.com/browser-act/skills) - Browser automation CLI and skills for AI agents to operate real browsers, manage sessions, support human handoff, and capture screenshots and evidence. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-act/skills?style=social)
 - [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) - Browser extension that sits between an AI agent and the page, stripping prompt injection, masking PII/credentials, and removing dark patterns before content reaches the model. ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social)
+- [Atlas](https://github.com/steel-dev/atlas) - Open-source deep research harness for building cited web research agents with ledger-based coverage audits, pluggable search providers, and Steel-backed browser fetches. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/atlas?style=social)
 
 ## AI Web Scrapers/Crawlers
 
