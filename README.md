@@ -90,7 +90,6 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Magentic-One](https://www.microsoft.com/en-us/research/articles/magentic-one-a-generalist-multi-agent-system-for-solving-complex-tasks/) - A generalist multi-agent system for solving complex tasks including surfing the web via Autogen's MultimodalWebSurfer.
 - [Harpa.ai](https://harpa.ai/) - An AI-powered Chrome extension & browser agent that understands natural language and takes actions on your behalf.
 - [Yutori](https://yutori.com/) - A multi-agent system that executes browser-based tasks in parallel given a natural language prompt.
-- [Automina](https://automina.app/) - AI browser automation tool with natural language control.
 - [rtrvr.ai](https://www.rtrvr.ai/) - AI web agent Chrome extension that autonomously does tasks, scrapes to Sheets, and calls APIs with prompts in your own browser.
 - [Nanobrowser](https://nanobrowser.ai) - An open-source & local-first AI web agent Chrome extension with flexible LLM options and multi-agent system. ![GitHub Repo stars](https://img.shields.io/github/stars/nanobrowser/nanobrowser?style=social)
 - [Browserable](https://browserable.ai) - An open-source & self-hostable browser automation library for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/browserable/browserable?style=social)
@@ -134,6 +133,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 ### Dev Tools
 
 - [Steel.dev](https://steel.dev) - Open-source headless browser API built specifically for AI agents and apps. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
+- [Atlas](https://github.com/steel-dev/atlas) - Open-source deep research harness for building cited web research agents with ledger-based coverage audits, pluggable search providers, and Steel-backed browser fetches. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/atlas?style=social)
 - [Omniparser](https://microsoft.github.io/OmniParser/) - Tool for parsing GUIs for vision based agents. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social)
 - [LaVague](https://www.lavague.ai/) - Framework for natural language web automation. ![GitHub Repo stars](https://img.shields.io/github/stars/lavague-ai/LaVague?style=social)
 - [LangChain Playwright Toolkit](https://python.langchain.com/docs/integrations/tools/playwright/#use-within-an-agent) - Toolkit integration with AI agents.
@@ -144,16 +144,13 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [TinyFish](https://www.tinyfish.ai) - Remote web agents that execute tasks on any website and return structured JSON via a single API call. ![GitHub Repo stars](https://img.shields.io/github/stars/tinyfish-io/tinyfish-cookbook?style=social)
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - Containerized computer use agent framework with a virtual desktop environment. ![GitHub Repo stars](https://img.shields.io/github/stars/bytebot-ai/bytebot?style=social)
 - [Lumen](https://github.com/omxyz/lumen) - Vision-first browser agent with self-healing deterministic replay. Screenshot → model → action loop over CDP, multi-provider (Anthropic, Google, OpenAI), action caching for zero-token reruns. ![GitHub Repo stars](https://img.shields.io/github/stars/omxyz/lumen?style=social)
-- [BabelWrap](https://babelwrap.com) - HTTP API and MCP server that lets AI agents interact with websites through natural language instead of CSS selectors. ![GitHub Repo stars](https://img.shields.io/github/stars/babelwrap/babelwrap-mcp?style=social)
 - [Webagent-cloud](https://webagent.cloud) - Open-source API for browser agents to automate repetitive workflows. Works with multiple browsers/LLM providers, and minimizes costs with a self-healing action cache. ![GitHub Repo stars](https://img.shields.io/github/stars/webagent-cloud/webagent?style=social)
-- [Hermesforge Screenshot API](https://hermesforge.dev/api) - Visual perception API for AI agent pipelines. Playwright-renders any URL and returns base64-encoded PNG/WebP/JPEG/PDF as direct multimodal LLM context; supports async queue and webhook delivery for long-running observation tasks.
 - [BrowserTrace](https://github.com/aaronlab/browsertrace) - Local-first trace viewer for debugging Playwright, Browser Use, Stagehand, and other web-agent runs with redacted shareable exports. ![GitHub Repo stars](https://img.shields.io/github/stars/aaronlab/browsertrace?style=social)
 - [Notte](https://notte.cc) - Browser infrastructure for AI agents with managed sessions, an agent runtime, and credential vault and persona authentication primitives. ![GitHub Repo stars](https://img.shields.io/github/stars/nottelabs/notte?style=social)
 - [invisible-playwright](https://github.com/feder-cr/invisible_playwright) - Playwright wrapper for a stealth-patched Firefox 150 build. Drop-in replacement returning native Playwright Browser objects; spoofing happens in C++ source with no JS-level overrides. ![GitHub Repo stars](https://img.shields.io/github/stars/feder-cr/invisible_playwright?style=social)
 - [Webwright](https://github.com/microsoft/Webwright) - Browser agent framework from Microsoft Research where the agent writes and runs Playwright scripts in a terminal workspace; supports OpenAI, Anthropic, and OpenRouter backends. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/Webwright?style=social)
 - [BrowserAct](https://github.com/browser-act/skills) - Browser automation CLI and skills for AI agents to operate real browsers, manage sessions, support human handoff, and capture screenshots and evidence. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-act/skills?style=social)
 - [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) - Browser extension that sits between an AI agent and the page, stripping prompt injection, masking PII/credentials, and removing dark patterns before content reaches the model. ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social)
-- [Atlas](https://github.com/steel-dev/atlas) - Open-source deep research harness for building cited web research agents with ledger-based coverage audits, pluggable search providers, and Steel-backed browser fetches. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/atlas?style=social)
 
 ## AI Web Scrapers/Crawlers
 
