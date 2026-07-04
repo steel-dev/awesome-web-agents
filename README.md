@@ -242,3 +242,5 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
 ### Contributors
 
 [Thanks goes to these contributors](https://github.com/steel-dev/awesome-web-agents/graphs/contributors)!
+
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT-licensed, one-command install.
