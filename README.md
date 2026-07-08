@@ -152,6 +152,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [BrowserAct](https://github.com/browser-act/skills) - Browser automation CLI and skills for AI agents to operate real browsers, manage sessions, support human handoff, and capture screenshots and evidence. ![GitHub Repo stars](https://img.shields.io/github/stars/browser-act/skills?style=social)
 - [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) - Browser extension that sits between an AI agent and the page, stripping prompt injection, masking PII/credentials, and removing dark patterns before content reaches the model. ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social)
 - [HUD](https://github.com/hud-evals/hud-python) - Open-source SDK for building browser and computer-use RL environments to evaluate and train web agents, with task-based verifiable rewards runnable as evals or RL training across any model. ![GitHub Repo stars](https://img.shields.io/github/stars/hud-evals/hud-python?style=social)
+- [BrowserBash](https://github.com/PramodDutta/browserbash) - Plain-English browser testing for AI agents; an agent runs objectives or whole test suites in a real Chrome and returns deterministic verdicts (assertions, exit codes). Ships an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/PramodDutta/browserbash?style=social)
 
 ## AI Web Scrapers/Crawlers
 
