@@ -153,6 +153,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Agent Browser Shield](https://github.com/pixiebrix/agent-browser-shield) - Browser extension that sits between an AI agent and the page, stripping prompt injection, masking PII/credentials, and removing dark patterns before content reaches the model. ![GitHub Repo stars](https://img.shields.io/github/stars/pixiebrix/agent-browser-shield?style=social)
 - [HUD](https://github.com/hud-evals/hud-python) - Open-source SDK for building browser and computer-use RL environments to evaluate and train web agents, with task-based verifiable rewards runnable as evals or RL training across any model. ![GitHub Repo stars](https://img.shields.io/github/stars/hud-evals/hud-python?style=social)
 - [Webfuse](https://www.webfuse.com) - Configurable web proxy and browser-as-a-service for deploying and operating AI agents in a sandbox layer on top of any third-party website, using client-side extensions and without source-code access.
+- [Attest](https://github.com/Cyrus580529/Attest) - Trust layer for web agents: refs are validated against the live page before execution, writes are verified via snapshot diff, and outcomes are computed from an evidence ledger rather than the model's own claim. ![GitHub Repo stars](https://img.shields.io/github/stars/Cyrus580529/Attest?style=social)
 
 ## AI Web Scrapers/Crawlers
 
