@@ -179,6 +179,7 @@ Utilities that help agents search the web or query web data via natural language
 - [Exa.ai](https://exa.ai) - The fastest and most accurate web search API for AI agents.
 - [Not Human Search](https://nothumansearch.ai) - Search engine that indexes 1,750+ agent-first tools ranked by agentic readiness. Available as an MCP server with tools for searching, scoring, and monitoring agent infrastructure.
 - [Superhighway](https://superhighway.walls.sh) - Web search API for AI agents with five tools (search, news, images, scrape, research); agents pay per call in USDC via the x402 protocol, or use a free API key.
+- [Zoom Search](https://github.com/goofrey/zoom-search) - Open-source web search and evidence tool for AI agents with query rewriting, source-domain zoom-in, structured sourced outputs, and MCP and LangGraph integrations.
 
 ## Benchmarks & Research
 
