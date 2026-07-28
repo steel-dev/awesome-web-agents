@@ -96,6 +96,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Tongyi WebAgent](https://github.com/Alibaba-NLP/WebAgent) - WebAgent for information seeking built by Tongyi Lab, Alibaba Group. ![GitHub Repo stars](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent?style=social)
 - [Openwork](https://github.com/accomplish-ai/openwork) - An MIT-licensed, open alternative to Anthropic's Cowork built with Opencode and dev-browser. Supports multiple LLM providers for launching computer-use agents to automate browser workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
 - [Dassi](https://www.dassi.ai/) - An AI coworking agent in your browser that automates tasks, navigates pages, and works with files and 2000+ apps from a side panel.
+- [GlassBrowser](https://github.com/lzw12w/glass-browser) - An open-source, DOM-only browser agent focused on auditability and low-cost models: every step is written to a replayable audit trace, and it ships an offline Mind2Web evaluation harness. ![GitHub Repo stars](https://img.shields.io/github/stars/lzw12w/glass-browser?style=social)
 
 ### Computer-use Agents
 
