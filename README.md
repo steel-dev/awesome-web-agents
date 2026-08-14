@@ -99,6 +99,8 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 
 ### Computer-use Agents
 
+- [Clickyy](https://github.com/jayamitkatariya/clickyyy) - Shake your cursor to summon an AI agent that sees your screen and clicks, types, drags, and acts for you on macOS. Open-source, MIT.
+
 - [Anthropic Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use) - Computer use agent that can control your browser.
 - [Self-Operating Computer Framework](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer. ![GitHub Repo stars](https://img.shields.io/github/stars/OthersideAI/self-operating-computer?style=social)
 - [Highlight](https://highlightai.com/) - Desktop activity layer that helps models understand your workflow and complete tasks faster.
