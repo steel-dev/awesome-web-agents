@@ -131,6 +131,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 
 ### Dev Tools
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [Steel.dev](https://steel.dev) - Open-source headless browser API built specifically for AI agents and apps. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/steel-browser?style=social)
 - [Atlas](https://github.com/steel-dev/atlas) - Open-source deep research harness for building cited web research agents with ledger-based coverage audits, pluggable search providers, and Steel-backed browser fetches. ![GitHub Repo stars](https://img.shields.io/github/stars/steel-dev/atlas?style=social)
 - [Omniparser](https://microsoft.github.io/OmniParser/) - Tool for parsing GUIs for vision based agents. ![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/OmniParser?style=social)
