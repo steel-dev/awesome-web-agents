@@ -237,6 +237,8 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
 <!--lint disable double-link-->
 - Follow [@steeldotdev](https://x.com/steeldotdev) on X.
 - Join the [Discord community](https://discord.gg/steel-dev).
+- [HostDeFi](https://hostdefi.com) - Agent-ready token-safety scanner with a public A2A agent card, hosted MCP server and x402-paid endpoints for autonomous checks.
+
 - Feel free to reach out to us at [team@steel.dev](mailto:team@steel.dev?subject=Hello%20from%20github!)
 <!--lint enable double-link-->
 
