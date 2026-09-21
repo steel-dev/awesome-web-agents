@@ -96,6 +96,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Openwork](https://github.com/accomplish-ai/openwork) - An MIT-licensed, open alternative to Anthropic's Cowork built with Opencode and dev-browser. Supports multiple LLM providers for launching computer-use agents to automate browser workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
 - [Dassi](https://www.dassi.ai/) - An AI coworking agent in your browser that automates tasks, navigates pages, and works with files and 2000+ apps from a side panel.
 - [Caesar](https://github.com/jasonzliang/caesar-agent) - Autonomous research agent that traverses the web to build a knowledge graph, then synthesizes an answer through adversarial redrafting. ![GitHub Repo stars](https://img.shields.io/github/stars/jasonzliang/caesar-agent?style=social)
+- [SLICC](https://www.sliccy.com) - Browser-based agent runtime with a POSIX shell, virtual filesystem, and git that automates web apps through the user's existing signed-in browser sessions and runs sandboxed sub-agents in parallel. ![GitHub Repo stars](https://img.shields.io/github/stars/ai-ecoverse/slicc?style=social)
 
 ### Computer-use Agents
 
