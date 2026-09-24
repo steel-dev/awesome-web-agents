@@ -128,6 +128,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Onpiste](https://onpiste.work) - Chrome extension that uses AI to control and read webpages, including auto summaries, web automation, scraping, and MCP support.
 - [Komos](https://www.komos.ai/) - AI browser workflow automation platform that turns recorded web tasks into reusable runs with API triggers, schedules, credentials, logs, and human review.
 - [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA harness for natural-language web test runs with execution memory and self-healing actions. ![GitHub Repo stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social)
+- [Browy](https://github.com/BrowyHQ/browy) - Open-source Chromium extension that drives the user's existing logged-in tabs from a side panel or a DevTools panel REPL, using indexed accessibility-tree snapshots over the Chrome DevTools Protocol and running on a GitHub Copilot subscription rather than a model API key. ![GitHub Repo stars](https://img.shields.io/github/stars/BrowyHQ/browy?style=social)
 
 ### Dev Tools
 
