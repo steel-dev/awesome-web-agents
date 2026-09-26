@@ -96,7 +96,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Openwork](https://github.com/accomplish-ai/openwork) - An MIT-licensed, open alternative to Anthropic's Cowork built with Opencode and dev-browser. Supports multiple LLM providers for launching computer-use agents to automate browser workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
 - [Dassi](https://www.dassi.ai/) - An AI coworking agent in your browser that automates tasks, navigates pages, and works with files and 2000+ apps from a side panel.
 - [Caesar](https://github.com/jasonzliang/caesar-agent) - Autonomous research agent that traverses the web to build a knowledge graph, then synthesizes an answer through adversarial redrafting. ![GitHub Repo stars](https://img.shields.io/github/stars/jasonzliang/caesar-agent?style=social)
-- [Jev Social](https://github.com/socai-io/jev-social) - Local-first social research agent that uses typed Jev choices to run socai CLI operations in a real Chrome session and stream Instagram, TikTok, and LinkedIn evidence into cited reports. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
+- [Jev Social](https://github.com/socai-io/jev-social) - Browser-grounded social research agent where Jev selects bounded Instagram, TikTok, and LinkedIn operations; the local socai CLI captures evidence before the app produces a cited report. ![GitHub Repo stars](https://img.shields.io/github/stars/socai-io/jev-social?style=social)
 
 ### Computer-use Agents
 
