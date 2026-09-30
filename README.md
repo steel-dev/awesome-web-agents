@@ -181,9 +181,9 @@ Utilities that help agents search the web or query web data via natural language
 - [Exa.ai](https://exa.ai) - The fastest and most accurate web search API for AI agents.
 - [Not Human Search](https://nothumansearch.ai) - Search engine that indexes 1,750+ agent-first tools ranked by agentic readiness. Available as an MCP server with tools for searching, scoring, and monitoring agent infrastructure.
 - [Superhighway](https://superhighway.walls.sh) - Web search API for AI agents with five tools (search, news, images, scrape, research); agents pay per call in USDC via the x402 protocol, or use a free API key.
-- [Vend API Merchant](https://extract.paypercall.dev) - Pay-per-call web search, page extraction, link checker and domain intelligence for AI agents. Settled in Nano (XNO) via the x402 protocol — no API key, no signup, zero network fees.
 - [Zoom Search](https://github.com/goofrey/zoom-search) - Open-source web search and evidence tool for AI agents with query rewriting, source-domain zoom-in, structured sourced outputs, and MCP and LangGraph integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/goofrey/zoom-search?style=social)
 - [SocialCrawl](https://www.socialcrawl.dev) - Unified social and commerce data API covering 50+ platforms as one GET and one JSON schema.
+- [Vend API Merchant](https://extract.paypercall.dev) - Pay-per-call web search, semantic search at `search.paypercall.dev/api/v1/neural-search`, page extraction, link checker and domain intelligence for AI agents. Settled in Nano (XNO) via the x402 protocol — no API key, no signup, zero network fees.
 
 ## Benchmarks & Research
 
