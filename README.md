@@ -128,6 +128,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Onpiste](https://onpiste.work) - Chrome extension that uses AI to control and read webpages, including auto summaries, web automation, scraping, and MCP support.
 - [Komos](https://www.komos.ai/) - AI browser workflow automation platform that turns recorded web tasks into reusable runs with API triggers, schedules, credentials, logs, and human review.
 - [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA harness for natural-language web test runs with execution memory and self-healing actions. ![GitHub Repo stars](https://img.shields.io/github/stars/vostride/agent-qa?style=social)
+- [Sedum](https://github.com/sedum-dev/sedum) - Open-source end-to-end testing CLI that drives a real browser from plain-English goals or steps, using a typed decision model to pick each action and element and Playwright to run them. ![GitHub Repo stars](https://img.shields.io/github/stars/sedum-dev/sedum?style=social)
 
 ### Dev Tools
 
