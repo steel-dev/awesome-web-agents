@@ -104,6 +104,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Highlight](https://highlightai.com/) - Desktop activity layer that helps models understand your workflow and complete tasks faster.
 - [OpenInterpreter](https://github.com/openinterpreter/open-interpreter) - An open-source CLI based agent that can write & execute code as well as control your browser. ![GitHub Repo stars](https://img.shields.io/github/stars/openinterpreter/open-interpreter?style=social)
 - [UI-TARS](https://github.com/bytedance/UI-TARS?tab=readme-ov-file) - A GUI agent model designed to interact seamlessly with GUIs using human-like perception, reasoning, and action capabilities. ![GitHub Repo stars](https://img.shields.io/github/stars/bytedance/UI-TARS?style=social)
+- [OpenAmer](https://github.com/openamer/openamer) - Local-first agent that operates the real desktop — filesystem, terminal, GUI and browser over CDP — with in-process cognition tools and an A2A mesh for peer-to-peer work routing. ![GitHub Repo stars](https://img.shields.io/github/stars/openamer/openamer?style=flat-square)
 
 ## AI Web Automation Tools
 
