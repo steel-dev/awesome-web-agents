@@ -74,6 +74,8 @@ Steel is an [open-source](https://github.com/steel-dev/steel-browser) browser AP
 
 AI agents that autonomously navigate and interact with the web through a user-friendly interface. (a.k.a Browser Agents)
 
+- [Kortix](https://github.com/kortix-ai/suna) - Open-source AI Operating System that runs agents on their own isolated cloud computer; start a session from the web, Slack, Teams, email, CLI or API and review the finished work as a change request.
+
 - [OpenAI Operator](https://openai.com/index/introducing-operator/) - OpenAI's AI agents that can browse the web for you.
 - [Browser-Use](https://www.browser-use.com) - SOTA agent and framework that makes the web LLM-friendly. ![GitHub Repo stars](https://img.shields.io/github/stars/Browser-Use/browser-use?style=social)
 - [Skyvern-AI](https://www.skyvern.com/) - Framework to automate browser-based workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/Skyvern-AI/skyvern?style=social)
