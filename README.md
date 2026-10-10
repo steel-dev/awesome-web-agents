@@ -183,6 +183,7 @@ Utilities that help agents search the web or query web data via natural language
 - [Superhighway](https://superhighway.walls.sh) - Web search API for AI agents with five tools (search, news, images, scrape, research); agents pay per call in USDC via the x402 protocol, or use a free API key.
 - [Zoom Search](https://github.com/goofrey/zoom-search) - Open-source web search and evidence tool for AI agents with query rewriting, source-domain zoom-in, structured sourced outputs, and MCP and LangGraph integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/goofrey/zoom-search?style=social)
 - [SocialCrawl](https://www.socialcrawl.dev) - Unified social and commerce data API covering 50+ platforms as one GET and one JSON schema.
+- [Datacircle](https://docs.datacircle.dev/) - A data co-op: B2B data APIs with no markup. Right now we have 3 live LinkedIn profile APIs that we trust: Up2Data, HarvestAPI and Fetchin. Agents call them through our MCP server, api.datacircle.dev/mcp.
 
 ## Benchmarks & Research
 
