@@ -97,6 +97,8 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Dassi](https://www.dassi.ai/) - An AI coworking agent in your browser that automates tasks, navigates pages, and works with files and 2000+ apps from a side panel.
 - [Caesar](https://github.com/jasonzliang/caesar-agent) - Autonomous research agent that traverses the web to build a knowledge graph, then synthesizes an answer through adversarial redrafting. ![GitHub Repo stars](https://img.shields.io/github/stars/jasonzliang/caesar-agent?style=social)
 
+- [Tabgent](https://github.com/FibonaAI/tabgent) - Chrome sidebar extension that connects to a local Codex installation for page reading and browser actions, with per-tab conversations.
+
 ### Computer-use Agents
 
 - [Anthropic Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use) - Computer use agent that can control your browser.
