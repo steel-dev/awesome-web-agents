@@ -154,6 +154,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Webfuse](https://www.webfuse.com) - Configurable web proxy and browser-as-a-service for deploying and operating AI agents in a sandbox layer on top of any third-party website, using client-side extensions and without source-code access.
 - [Webcmd](https://github.com/agentrhq/webcmd) - Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles that context into deterministic CLI adapters and reusable sitemap memory for later runs. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
 - [Hermes Connector](https://github.com/CorsenAI/hermes-connector) - Unofficial open-source Chrome extension and local companion that let Hermes Agent control only explicitly attached tabs in a user's Chrome session. ![GitHub Repo stars](https://img.shields.io/github/stars/CorsenAI/hermes-connector?style=social)
+- [kev-0.6b-browser-use](https://github.com/arbazsiddiqui/kev-browser-use) - Open 0.6B decision model for browser agents that reads a goal and the page's candidate elements and returns which element to act on and whether to click, type or select, as probabilities in one forward pass. Runs in the browser on WebGPU or on a server. ![GitHub Repo stars](https://img.shields.io/github/stars/arbazsiddiqui/kev-browser-use?style=social)
 
 ## AI Web Scrapers/Crawlers
 
