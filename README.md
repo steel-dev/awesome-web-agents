@@ -155,6 +155,8 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Webcmd](https://github.com/agentrhq/webcmd) - Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles that context into deterministic CLI adapters and reusable sitemap memory for later runs. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
 - [Hermes Connector](https://github.com/CorsenAI/hermes-connector) - Unofficial open-source Chrome extension and local companion that let Hermes Agent control only explicitly attached tabs in a user's Chrome session. ![GitHub Repo stars](https://img.shields.io/github/stars/CorsenAI/hermes-connector?style=social)
 
+- [rea-captcha](https://github.com/masakaai/rea-captcha) - Local SDK and MCP server for browser agents to detect verification gates, complete provider test-key or owned image/text flows in an existing Playwright/CDP session, and resume after server validation.
+
 ## AI Web Scrapers/Crawlers
 
 Web crawlers & scrapers that leverage AI to navigate websites and extract content.
