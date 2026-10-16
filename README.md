@@ -169,6 +169,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
 - [DataLens](https://datalens.uk) - AI web data agent that plans browser scraping tasks, extracts structured web data, and exposes MCP tools for dataset workflows.
 - [Context.dev](https://www.context.dev/) - Web APIs and MCP tools for search, scraping, crawling, schema-based extraction, document parsing, monitoring, and batch jobs.
+- [Tanod](https://tanod.dev) - MCP server and x402 API with web page to Markdown, website screenshots, and web search tools; paid per call in USDC with a free daily allowance.
 
 ## Web Search & Query Tools
 
