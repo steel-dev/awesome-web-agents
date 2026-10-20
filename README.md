@@ -183,6 +183,7 @@ Utilities that help agents search the web or query web data via natural language
 - [Superhighway](https://superhighway.walls.sh) - Web search API for AI agents with five tools (search, news, images, scrape, research); agents pay per call in USDC via the x402 protocol, or use a free API key.
 - [Zoom Search](https://github.com/goofrey/zoom-search) - Open-source web search and evidence tool for AI agents with query rewriting, source-domain zoom-in, structured sourced outputs, and MCP and LangGraph integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/goofrey/zoom-search?style=social)
 - [SocialCrawl](https://www.socialcrawl.dev) - Unified social and commerce data API covering 50+ platforms as one GET and one JSON schema.
+- [Fast Data Google News Scraper](https://apify.com/fast_data_asap/google-news-scraper) - Google News search by keyword or topic in 18 countries with optional full article text, callable by agents via Apify MCP and payable per article via x402.
 
 ## Benchmarks & Research
 
