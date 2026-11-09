@@ -159,7 +159,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 
 Web crawlers & scrapers that leverage AI to navigate websites and extract content.
 
-- [FireCrawl](https://www.firecrawl.dev/) - APIs for turning websites into LLM-friendly markdown. ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social)
+- [Firecrawl](https://www.firecrawl.dev/) - API for AI agents to search, scrape, crawl, and interact with the web, returning Markdown or structured JSON. Has an official MCP server and agent skills. ![GitHub Repo stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social)
 - [Crawl4AI](https://crawl4ai.com) - Open-source LLM Friendly Web Crawler & Scraper. ![GitHub Repo stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)
 - [ScrapeGraphAI](https://scrapegraphai.com/) - Python scraper based on AI. ![GitHub Repo stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social)
 - [WebAgent (OpenAgents)](https://github.com/xlang-ai/OpenAgents) - The web-browsing agent module of the OpenAgents platform (HKU). Enables autonomous navigation of websites via natural language, as part of a larger multi-modal agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
