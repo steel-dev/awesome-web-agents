@@ -212,6 +212,7 @@ Datasets, benchmarks, and notable research efforts for evaluating and advancing 
 - [BrowserGym by ServiceNow](https://github.com/ServiceNow/BrowserGym) - A gym environment for web task automation. ![GitHub Repo stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social)
 - [TimeWarp](https://timewarp-web.github.io) - A benchmark on historical versions of web UI.
 - [ClawBench](https://github.com/reacher-z/ClawBench) - 283 everyday tasks (V1 153 + V2 130) on 163 live production websites across 15 categories. Two-stage scoring (final HTTP-request interception + LLM judge) blocks only the write request so real sites stay clean. Public leaderboard with 5-layer execution traces (recording, action log, request log, agent messages, interception). ![GitHub Repo stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social)
+- [Next-Gen CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs) - Scalable CAPTCHA defense framework and benchmark (ICML 2026) for evaluating multimodal web GUI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/MetaAgentX/NextGen-CAPTCHAs?style=social)
 
 ## Tutorials & Guides
 
