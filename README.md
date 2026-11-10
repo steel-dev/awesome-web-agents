@@ -158,6 +158,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Webcmd](https://github.com/agentrhq/webcmd) - Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles that context into deterministic CLI adapters and reusable sitemap memory for later runs. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
 - [Hermes Connector](https://github.com/CorsenAI/hermes-connector) - Unofficial open-source Chrome extension and local companion that let Hermes Agent control only explicitly attached tabs in a user's Chrome session. ![GitHub Repo stars](https://img.shields.io/github/stars/CorsenAI/hermes-connector?style=social)
 - [Clawbrowser](https://clawbrowser.ai) - Open-source managed Chromium runtime for AI agents that keeps per-profile fingerprints, proxy routing, cookies, and storage isolated and exposes each profile over a standard CDP endpoint for Playwright, Puppeteer, or other CDP clients. ![GitHub Repo stars](https://img.shields.io/github/stars/clawbrowser/clawbrowser?style=social)
+- [FSB (Full Self Browsing)](https://github.com/fullselfbrowsing/FSB) - Open-source Chrome extension and MCP server that lets MCP clients such as Claude Code, Codex, and Cursor drive the user's signed-in Chromium browser by reading the live DOM instead of screenshots. ![GitHub Repo stars](https://img.shields.io/github/stars/fullselfbrowsing/FSB?style=social)
 
 ## AI Web Scrapers/Crawlers
 
