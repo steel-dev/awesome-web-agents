@@ -96,6 +96,9 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Openwork](https://github.com/accomplish-ai/openwork) - An MIT-licensed, open alternative to Anthropic's Cowork built with Opencode and dev-browser. Supports multiple LLM providers for launching computer-use agents to automate browser workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
 - [Dassi](https://www.dassi.ai/) - An AI coworking agent in your browser that automates tasks, navigates pages, and works with files and 2000+ apps from a side panel.
 - [Caesar](https://github.com/jasonzliang/caesar-agent) - Autonomous research agent that traverses the web to build a knowledge graph, then synthesizes an answer through adversarial redrafting. ![GitHub Repo stars](https://img.shields.io/github/stars/jasonzliang/caesar-agent?style=social)
+- [SLICC](https://www.sliccy.com) - Browser-based agent runtime with a POSIX shell, virtual filesystem, and git that automates web apps through the user's existing signed-in browser sessions and runs sandboxed sub-agents in parallel. ![GitHub Repo stars](https://img.shields.io/github/stars/ai-ecoverse/slicc?style=social)
+- [Browsentic](https://browsentic.com) - Open-source browser extension that runs Claude Code, Codex or Antigravity from a side panel in the user's logged-in browser, and also works as an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/imshaikot/browsentic?style=social)
+- [CUGA](https://github.com/cuga-project/cuga-agent) - IBM Research's open-source agent that runs tasks in the browser (Playwright or a Chrome extension), over APIs, or both in one task. ![GitHub Repo stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social)
 
 ### Computer-use Agents
 
@@ -154,6 +157,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Webfuse](https://www.webfuse.com) - Configurable web proxy and browser-as-a-service for deploying and operating AI agents in a sandbox layer on top of any third-party website, using client-side extensions and without source-code access.
 - [Webcmd](https://github.com/agentrhq/webcmd) - Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles that context into deterministic CLI adapters and reusable sitemap memory for later runs. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
 - [Hermes Connector](https://github.com/CorsenAI/hermes-connector) - Unofficial open-source Chrome extension and local companion that let Hermes Agent control only explicitly attached tabs in a user's Chrome session. ![GitHub Repo stars](https://img.shields.io/github/stars/CorsenAI/hermes-connector?style=social)
+- [Clawbrowser](https://clawbrowser.ai) - Open-source managed Chromium runtime for AI agents that keeps per-profile fingerprints, proxy routing, cookies, and storage isolated and exposes each profile over a standard CDP endpoint for Playwright, Puppeteer, or other CDP clients. ![GitHub Repo stars](https://img.shields.io/github/stars/clawbrowser/clawbrowser?style=social)
 - [FSB (Full Self Browsing)](https://github.com/fullselfbrowsing/FSB) - Open-source Chrome extension and MCP server that lets MCP clients such as Claude Code, Codex, and Cursor drive the user's signed-in Chromium browser by reading the live DOM instead of screenshots. ![GitHub Repo stars](https://img.shields.io/github/stars/fullselfbrowsing/FSB?style=social)
 
 ## AI Web Scrapers/Crawlers
