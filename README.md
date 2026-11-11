@@ -96,6 +96,10 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Openwork](https://github.com/accomplish-ai/openwork) - An MIT-licensed, open alternative to Anthropic's Cowork built with Opencode and dev-browser. Supports multiple LLM providers for launching computer-use agents to automate browser workflows. ![GitHub Repo stars](https://img.shields.io/github/stars/accomplish-ai/openwork?style=social)
 - [Dassi](https://www.dassi.ai/) - An AI coworking agent in your browser that automates tasks, navigates pages, and works with files and 2000+ apps from a side panel.
 - [Caesar](https://github.com/jasonzliang/caesar-agent) - Autonomous research agent that traverses the web to build a knowledge graph, then synthesizes an answer through adversarial redrafting. ![GitHub Repo stars](https://img.shields.io/github/stars/jasonzliang/caesar-agent?style=social)
+- [SLICC](https://www.sliccy.com) - Browser-based agent runtime with a POSIX shell, virtual filesystem, and Git that automates web apps through the user's existing signed-in browser sessions and runs sandboxed sub-agents in parallel. ![GitHub Repo stars](https://img.shields.io/github/stars/ai-ecoverse/slicc?style=social)
+- [Browsentic](https://browsentic.com) - Open-source browser extension that runs Claude Code, Codex or Antigravity from a side panel in the user's logged-in browser, and also works as an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/imshaikot/browsentic?style=social)
+- [CUGA](https://github.com/cuga-project/cuga-agent) - IBM Research's open-source agent that runs tasks in the browser (Playwright or a Chrome extension), over APIs, or both in one task. ![GitHub Repo stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social)
+- [qz](https://github.com/alibaba/qz-browser-agent) - Open-source browser agent from Alibaba that runs as a Chrome extension in the user's signed-in browser, with a CLI and MCP server so coding agents such as Claude Code and Codex can hand it web tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/qz-browser-agent?style=social)
 
 ### Computer-use Agents
 
@@ -154,12 +158,15 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Webfuse](https://www.webfuse.com) - Configurable web proxy and browser-as-a-service for deploying and operating AI agents in a sandbox layer on top of any third-party website, using client-side extensions and without source-code access.
 - [Webcmd](https://github.com/agentrhq/webcmd) - Self-learning browser infrastructure for AI agents that records how a site is navigated, then compiles that context into deterministic CLI adapters and reusable sitemap memory for later runs. ![GitHub Repo stars](https://img.shields.io/github/stars/agentrhq/webcmd?style=social)
 - [Hermes Connector](https://github.com/CorsenAI/hermes-connector) - Unofficial open-source Chrome extension and local companion that let Hermes Agent control only explicitly attached tabs in a user's Chrome session. ![GitHub Repo stars](https://img.shields.io/github/stars/CorsenAI/hermes-connector?style=social)
+- [Clawbrowser](https://clawbrowser.ai) - Open-source managed Chromium runtime for AI agents that keeps per-profile fingerprints, proxy routing, cookies, and storage isolated and exposes each profile over a standard CDP endpoint for Playwright, Puppeteer, or other CDP clients. ![GitHub Repo stars](https://img.shields.io/github/stars/clawbrowser/clawbrowser?style=social)
+- [FSB (Full Self Browsing)](https://github.com/fullselfbrowsing/FSB) - Open-source Chrome extension and MCP server that lets MCP clients such as Claude Code, Codex, and Cursor drive the user's signed-in Chromium browser by reading the live DOM instead of screenshots. ![GitHub Repo stars](https://img.shields.io/github/stars/fullselfbrowsing/FSB?style=social)
+- [Browser Use Cloud](https://docs.browser-use.com/cloud/quickstart) - Hosted stealth Chromium browsers for AI agents with residential proxies, CAPTCHA solving, persistent profiles and live view, driven over CDP by Playwright, Puppeteer, Stagehand or the Browser-Use agent.
 
 ## AI Web Scrapers/Crawlers
 
 Web crawlers & scrapers that leverage AI to navigate websites and extract content.
 
-- [FireCrawl](https://www.firecrawl.dev/) - APIs for turning websites into LLM-friendly markdown. ![GitHub Repo stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social)
+- [Firecrawl](https://www.firecrawl.dev/) - API for AI agents to search, scrape, crawl, and interact with the web, returning Markdown or structured JSON. Has an official MCP server and agent skills. ![GitHub Repo stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social)
 - [Crawl4AI](https://crawl4ai.com) - Open-source LLM Friendly Web Crawler & Scraper. ![GitHub Repo stars](https://img.shields.io/github/stars/unclecode/crawl4ai?style=social)
 - [ScrapeGraphAI](https://scrapegraphai.com/) - Python scraper based on AI. ![GitHub Repo stars](https://img.shields.io/github/stars/ScrapeGraphAI/Scrapegraph-ai?style=social)
 - [WebAgent (OpenAgents)](https://github.com/xlang-ai/OpenAgents) - The web-browsing agent module of the OpenAgents platform (HKU). Enables autonomous navigation of websites via natural language, as part of a larger multi-modal agent framework. ![GitHub Repo stars](https://img.shields.io/github/stars/xlang-ai/OpenAgents?style=social)
@@ -169,6 +176,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [SpiderCreator](https://github.com/carlosplanchon/spidercreator) - Create complex Playwright spiders with natural language prompts. ![GitHub Repo stars](https://img.shields.io/github/stars/carlosplanchon/spidercreator?style=social)
 - [DataLens](https://datalens.uk) - AI web data agent that plans browser scraping tasks, extracts structured web data, and exposes MCP tools for dataset workflows.
 - [Context.dev](https://www.context.dev/) - Web APIs and MCP tools for search, scraping, crawling, schema-based extraction, document parsing, monitoring, and batch jobs.
+- [ScrapingBee](https://www.scrapingbee.com/) - Web scraping API with JavaScript rendering, proxy rotation and plain-English AI extraction, plus a CLI, Agent Skills and a remote MCP server for AI agents.
 
 ## Web Search & Query Tools
 
@@ -183,6 +191,7 @@ Utilities that help agents search the web or query web data via natural language
 - [Superhighway](https://superhighway.walls.sh) - Web search API for AI agents with five tools (search, news, images, scrape, research); agents pay per call in USDC via the x402 protocol, or use a free API key.
 - [Zoom Search](https://github.com/goofrey/zoom-search) - Open-source web search and evidence tool for AI agents with query rewriting, source-domain zoom-in, structured sourced outputs, and MCP and LangGraph integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/goofrey/zoom-search?style=social)
 - [SocialCrawl](https://www.socialcrawl.dev) - Unified social and commerce data API covering 50+ platforms as one GET and one JSON schema.
+- [Keenable](https://keenable.ai) - Web search API and hosted MCP server with its own index, returning ranked results and page content as markdown for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/keenableai/keenable-mcp?style=social)
 - [SpecStream](https://specstream.ai) - Web data API and hosted MCP server that returns typed records from the live web for a plain-language request, with a source URL and read time on each value.
 
 ## Benchmarks & Research
@@ -206,6 +215,8 @@ Datasets, benchmarks, and notable research efforts for evaluating and advancing 
 - [BrowserGym by ServiceNow](https://github.com/ServiceNow/BrowserGym) - A gym environment for web task automation. ![GitHub Repo stars](https://img.shields.io/github/stars/ServiceNow/BrowserGym?style=social)
 - [TimeWarp](https://timewarp-web.github.io) - A benchmark on historical versions of web UI.
 - [ClawBench](https://github.com/reacher-z/ClawBench) - 283 everyday tasks (V1 153 + V2 130) on 163 live production websites across 15 categories. Two-stage scoring (final HTTP-request interception + LLM judge) blocks only the write request so real sites stay clean. Public leaderboard with 5-layer execution traces (recording, action log, request log, agent messages, interception). ![GitHub Repo stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social)
+- [Next-Gen CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs) - Scalable CAPTCHA defense framework and benchmark (ICML 2026) for evaluating multimodal web GUI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/MetaAgentX/NextGen-CAPTCHAs?style=social)
+- [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) - Benchmark from TIGER-AI-Lab that tests whether agents can rebuild full-stack websites by exploring them in a browser. ![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/WebsiteBench?style=social)
 
 ## Tutorials & Guides
 
