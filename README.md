@@ -177,6 +177,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [DataLens](https://datalens.uk) - AI web data agent that plans browser scraping tasks, extracts structured web data, and exposes MCP tools for dataset workflows.
 - [Context.dev](https://www.context.dev/) - Web APIs and MCP tools for search, scraping, crawling, schema-based extraction, document parsing, monitoring, and batch jobs.
 - [ScrapingBee](https://www.scrapingbee.com/) - Web scraping API with JavaScript rendering, proxy rotation and plain-English AI extraction, plus a CLI, Agent Skills and a remote MCP server for AI agents.
+- [Scrape.ly](https://scrape.ly/) - Cloud platform of ready-made scrapers for sites such as Google Maps, Amazon and LinkedIn, with a hosted MCP server, an agent skill and an API that let agents find a scraper, run it and read structured results.
 
 ## Web Search & Query Tools
 
