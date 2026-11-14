@@ -177,6 +177,7 @@ Web crawlers & scrapers that leverage AI to navigate websites and extract conten
 - [DataLens](https://datalens.uk) - AI web data agent that plans browser scraping tasks, extracts structured web data, and exposes MCP tools for dataset workflows.
 - [Context.dev](https://www.context.dev/) - Web APIs and MCP tools for search, scraping, crawling, schema-based extraction, document parsing, monitoring, and batch jobs.
 - [ScrapingBee](https://www.scrapingbee.com/) - Web scraping API with JavaScript rendering, proxy rotation and plain-English AI extraction, plus a CLI, Agent Skills and a remote MCP server for AI agents.
+- [Huntsman](https://github.com/TulipFarm/huntsman) - Self-hosted web scraper that returns clean Markdown through a Firecrawl-compatible API and renders JavaScript with Lightpanda. ![GitHub Repo stars](https://img.shields.io/github/stars/TulipFarm/huntsman?style=social)
 
 ## Web Search & Query Tools
 
