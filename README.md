@@ -100,6 +100,7 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [Browsentic](https://browsentic.com) - Open-source browser extension that runs Claude Code, Codex or Antigravity from a side panel in the user's logged-in browser, and also works as an MCP server. ![GitHub Repo stars](https://img.shields.io/github/stars/imshaikot/browsentic?style=social)
 - [CUGA](https://github.com/cuga-project/cuga-agent) - IBM Research's open-source agent that runs tasks in the browser (Playwright or a Chrome extension), over APIs, or both in one task. ![GitHub Repo stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social)
 - [qz](https://github.com/alibaba/qz-browser-agent) - Open-source browser agent from Alibaba that runs as a Chrome extension in the user's signed-in browser, with a CLI and MCP server so coding agents such as Claude Code and Codex can hand it web tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/qz-browser-agent?style=social)
+- [Pexi](https://chromewebstore.google.com/detail/hmilmocmhfcnkaodecjpknjgfeegepoo) - Chrome extension that uses an AI provider API key to research, fill forms, and perform browser tasks; offers a seven-day trial followed by a subscription.
 
 ### Computer-use Agents
 
