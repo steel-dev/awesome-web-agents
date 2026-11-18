@@ -192,6 +192,7 @@ Utilities that help agents search the web or query web data via natural language
 - [Zoom Search](https://github.com/goofrey/zoom-search) - Open-source web search and evidence tool for AI agents with query rewriting, source-domain zoom-in, structured sourced outputs, and MCP and LangGraph integrations. ![GitHub Repo stars](https://img.shields.io/github/stars/goofrey/zoom-search?style=social)
 - [SocialCrawl](https://www.socialcrawl.dev) - Unified social and commerce data API covering 50+ platforms as one GET and one JSON schema.
 - [Keenable](https://keenable.ai) - Web search API and hosted MCP server with its own index, returning ranked results and page content as markdown for AI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/keenableai/keenable-mcp?style=social)
+- [Social Fetch](https://www.socialfetch.dev) - Social media data API and hosted MCP server that returns live public TikTok, Instagram, YouTube, X, Reddit and LinkedIn data as JSON for AI agents.
 
 ## Benchmarks & Research
 
