@@ -161,6 +161,7 @@ Tools, frameworks and libraries that translate natural language instructions int
 - [Clawbrowser](https://clawbrowser.ai) - Open-source managed Chromium runtime for AI agents that keeps per-profile fingerprints, proxy routing, cookies, and storage isolated and exposes each profile over a standard CDP endpoint for Playwright, Puppeteer, or other CDP clients. ![GitHub Repo stars](https://img.shields.io/github/stars/clawbrowser/clawbrowser?style=social)
 - [FSB (Full Self Browsing)](https://github.com/fullselfbrowsing/FSB) - Open-source Chrome extension and MCP server that lets MCP clients such as Claude Code, Codex, and Cursor drive the user's signed-in Chromium browser by reading the live DOM instead of screenshots. ![GitHub Repo stars](https://img.shields.io/github/stars/fullselfbrowsing/FSB?style=social)
 - [Browser Use Cloud](https://docs.browser-use.com/cloud/quickstart) - Hosted stealth Chromium browsers for AI agents with residential proxies, CAPTCHA solving, persistent profiles and live view, driven over CDP by Playwright, Puppeteer, Stagehand or the Browser-Use agent.
+- [OnlyRead](https://github.com/onlyreadai/onlyread) - Chrome extension that enforces read-only mode for AI browser agents: on guarded sites, write requests (send, post, edit, delete) are refused at the network layer before they leave the browser. ![GitHub Repo stars](https://img.shields.io/github/stars/onlyreadai/onlyread?style=social)
 
 ## AI Web Scrapers/Crawlers
 
