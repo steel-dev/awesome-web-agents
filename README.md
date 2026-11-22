@@ -225,6 +225,7 @@ Resources for learning how to build, deploy, or utilize AI web agents.
 - [Build an AI Browser Agent](https://dzone.com/articles/build-ai-browser-agent-llms-playwright-browser-use) - Step-by-step guide to create an AI that browses the web using Playwright and the Browser-Use library.
 - [Install & Run Browser-Use Locally](https://aleksandarhaber.com/install-and-run-browser-use-ai-agents-locally-using-ollama/) - Instructions on installing the open-source Browser-Use agent with a local LLM.
 - [Build a Browser Agent with DeepSeek](https://dev.to/nodeshiftcloud/build-a-browser-use-agent-with-deepseek-a-step-by-step-guide-2n59) - Walks through deploying a Browser-Use web UI agent powered by the DeepSeek model on a cloud VM.
+- [Can AI fill out forms for you? How computer use agents work](https://opitor.com/guides/can-ai-fill-out-forms-for-you) - User-side guide to handing web forms to a computer-use agent: browser and account access, where passwords should live, which steps should pause for approval, failed payments, and sites that forbid automated use.
 
 ## Archive
 
