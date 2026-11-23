@@ -216,6 +216,7 @@ Datasets, benchmarks, and notable research efforts for evaluating and advancing 
 - [ClawBench](https://github.com/reacher-z/ClawBench) - 283 everyday tasks (V1 153 + V2 130) on 163 live production websites across 15 categories. Two-stage scoring (final HTTP-request interception + LLM judge) blocks only the write request so real sites stay clean. Public leaderboard with 5-layer execution traces (recording, action log, request log, agent messages, interception). ![GitHub Repo stars](https://img.shields.io/github/stars/reacher-z/ClawBench?style=social)
 - [Next-Gen CAPTCHAs](https://github.com/MetaAgentX/NextGen-CAPTCHAs) - Scalable CAPTCHA defense framework and benchmark (ICML 2026) for evaluating multimodal web GUI agents. ![GitHub Repo stars](https://img.shields.io/github/stars/MetaAgentX/NextGen-CAPTCHAs?style=social)
 - [WebsiteBench](https://github.com/TIGER-AI-Lab/WebsiteBench) - Benchmark from TIGER-AI-Lab that tests whether agents can rebuild full-stack websites by exploring them in a browser. ![GitHub Repo stars](https://img.shields.io/github/stars/TIGER-AI-Lab/WebsiteBench?style=social)
+- [OmniForge AI Crawler & /llms.txt Benchmark](https://github.com/zColdWater/launch-audit-reports) - Live empirical dataset measuring 10 AI web-agent crawler policies (`robots.txt`), `/llms.txt` adoption, and JSON-LD entity depth across 228 production SaaS domains. ![GitHub Repo stars](https://img.shields.io/github/stars/zColdWater/launch-audit-reports?style=social)
 
 ## Tutorials & Guides
 
