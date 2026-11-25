@@ -101,6 +101,8 @@ AI agents that autonomously navigate and interact with the web through a user-fr
 - [CUGA](https://github.com/cuga-project/cuga-agent) - IBM Research's open-source agent that runs tasks in the browser (Playwright or a Chrome extension), over APIs, or both in one task. ![GitHub Repo stars](https://img.shields.io/github/stars/cuga-project/cuga-agent?style=social)
 - [qz](https://github.com/alibaba/qz-browser-agent) - Open-source browser agent from Alibaba that runs as a Chrome extension in the user's signed-in browser, with a CLI and MCP server so coding agents such as Claude Code and Codex can hand it web tasks. ![GitHub Repo stars](https://img.shields.io/github/stars/alibaba/qz-browser-agent?style=social)
 
+- [Tabgent](https://github.com/FibonaAI/tabgent) - Chrome sidebar extension that connects to a local Codex installation for page reading and browser actions, with per-tab conversations.
+
 ### Computer-use Agents
 
 - [Anthropic Computer Use](https://www.anthropic.com/news/3-5-models-and-computer-use) - Computer use agent that can control your browser.
